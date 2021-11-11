@@ -1,0 +1,136 @@
+[
+    {
+        "bank": "Access Bank",
+        "code": "044",
+        "abb": "ACC",
+        "ussd": "*901#",
+        "state": {
+            "Abia": [
+                {
+                "branch": "ABA, ASA ROAD",
+                "branchcode": "431",
+                "branchaddress": "74, ASA ROAD "
+            },
+            {
+                "branch": "ABA, EZIUKWU ROAD",
+                "branchcode": "020",
+                "branchaddress": "2, EZIUKWU ROAD "
+            },
+            {
+                "branch": "OGBOR HILL, IKOT EKPENE ROAD ABA",
+                "branchcode": "508",
+                "branchaddress": "OGBOR HILL, IKOT-EKPENE RD, ABA"
+            },
+            {
+                "branch": "RET SHOP - NGWA ROAD (078)",
+                "branchcode": "596",
+                "branchaddress": "NGWA RD MINI, 20, NGWA ROAD ABA"
+            },
+            {
+                "branch": "RETAIL SHOP - ARIARIA (001)",
+                "branchcode": "564",
+                "branchaddress": "ARIARIA MKT MINI, FAULKS ROAD, ABA"
+            },
+            {
+                "branch": "UMUAHIA, IKOT - EKPENE ROAD)",
+                "branchcode": "526",
+                "branchaddress": "UMUAHIA INDUSTRIAL MKT, UMUAHIA"
+            },
+            {
+                "branch": "UMUAHIA, LIBRARY AVENUE",
+                "branchcode": "393",
+                "branchaddress": "UMUAHIA, 10, LIBRARY AVENUE"
+            },
+            {
+                "branch": "ALAOJI, ABA - PORT HARCOURT ROAD",
+                "branchcode": "523",
+                "branchaddress": "ALAOJI, PLOT 550/560, PH RD- ASA NNETU SPARE PART MKT"
+            },
+            {
+                "branch": "FAULKS ROAD BRANCH ABA",
+                "branchcode": "217",
+                "branchaddress": "132 , FAULKS ROAD, ABA, ABIA STATE"
+            },
+            {
+                "branch": "OWERRINTA,KM 3 UMUIKAA/OWERRI RD",
+                "branchcode": "534",
+                "branchaddress": "OWERRINTA, OPP. NAVAL BASE, OWERRI-ABA ROAD ISIALA NGWA"
+            },
+            {
+                "branch": "RET SHOP - OSISIOMA (001)",
+                "branchcode": "563",
+                "branchaddress": "OSISIOMA, UMUAKPARA OSISIOMA, NGWA LOCAL GOVERNMENT"
+            },
+            {
+                "branch": "RET SHOP - UMUAHIA (039)",
+                "branchcode": "586",
+                "branchaddress": "UMUAHIA MINI, 2 OWERRI RD, UMUAHIA"
+            },
+            {
+                "branch": "UMUAHIA BRANCH",
+                "branchcode": "072",
+                "branchaddress": "6, LIBRARY AVENUE, UMUAHIA, ABIA STATE."
+            }
+        ],
+        "Adamawa": [
+            {
+                "branch": "MUBI, MOHAMMED BELLO WAY",
+                "branchcode": "449",
+                "branchaddress": "MUBI, AHMADU BELLO WAY, WURO BULUDE ‘B’"
+            },
+            {
+                "branch": "YOLA BRANCH",
+                "branchcode": "059",
+                "branchaddress": "NO 7, GALADIMA AMINU WAY, JIMETA, YOLA, ADAMAWA STATE"
+            }
+        ],
+        "Akwa Ibom": [
+            {
+                "branch": "EKET BRANCH",
+                "branchcode": "304",
+                "branchaddress": "EKET, NO. 6/8 GRACE RD, EKET "
+            },
+            {
+                "branch": "IKOT EKPENE BRANCH",
+                "branchcode": "150",
+                "branchaddress": "1, ABAK ROAD, IKOT EPKENE, AKWA IBOM STATE."
+            },
+            {
+                "branch": "ORON BRANCH",
+                "branchcode": "134",
+                "branchaddress": "180, ORON ROAD, ORON, AKWA-IBOM STATE"
+            },
+            {
+                "branch": "UYO",
+                "branchcode": "036",
+                "branchaddress": "21, WELLINGTON BASSEY WAY, UYO, AKWA IBOM STATE."
+            },
+            {
+                "branch": "UYO, ABAK ROAD",
+                "branchcode": "402",
+                "branchaddress": "109, ABAK RD,UYO"
+            },
+            {
+                "branch": "32 AKA ROAD BRANCH",
+                "branchcode": "270",
+                "branchaddress": "32, AKA ROAD, UYO, AKWA IBOM STATE."
+            },
+            {
+                "branch": "ABAK, IKOT - EKPENE ROAD",
+                "branchcode": "527",
+                "branchaddress": "60, IKOT-EKPENE ROAD, ABAK, AKWA IBOM STATE"
+            },
+            {
+                "branch": "GIBBS STREET BRANCH",
+                "branchcode": "360",
+                "branchaddress": "21/23 Gibss Street, Off Oron Road"
+            },
+            {
+                "branch": "UYO, BANK LAYOUT",
+                "branchcode": "495",
+                "branchaddress": "BANKING LAYOUT, UDO IDOMA AVENUE, UYO "
+            }
+        ]
+        }
+    }
+]
