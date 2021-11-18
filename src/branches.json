@@ -6600,30 +6600,3958 @@
                     "branchaddress": "8, ADETOKUNBO ADEMOLA STREET, VICTORIA ISLAND"
                 },
                 {
-                     "branch": "ADEOLA ODEKU",
-                     "branchcode":"011-154123",
-                     "branchaddress": "15B ADEOLA-ODEKU STREET ,VICTORIA ISLAND ,LAG"
+                    "branch": "ADEOLA ODEKU",
+                    "branchcode":"011-154123",
+                    "branchaddress": "15B ADEOLA-ODEKU STREET ,VICTORIA ISLAND ,LAG"
                 },
                 {
-                     "branch": "AGBARA",
-                     "branchcode":"011-153933",
-                     "branchaddress": "ILARO STREET,P.M.B.012,AGBARA ,BADAGRY/OGUN BO"
+                    "branch": "AGEGE",
+                    "branchcode":"011-151870",
+                    "branchaddress": "254 AGEGE MOTOR ROAD,OKO-OBA ,AGEGE ,LAGOS"
                 },
                 {
-                     "branch": "AGEGE",
-                     "branchcode":"011-151870",
-                     "branchaddress": "254 AGEGE MOTOR ROAD,OKO-OBA ,AGEGE ,LAGOS"
+                    "branch": "AGIDINGBI",
+                    "branchcode":"011-154442",
+                    "branchaddress": "6,ASABI COLE RD,OFF LATEEF JAKANDE WAY AGIDING"
                 },
                 {
-                     "branch": "AGIDINGBI",
-                     "branchcode":"011-154442",
-                     "branchaddress": "6,ASABI COLE RD,OFF LATEEF JAKANDE WAY AGIDING"
+                    "branch": "AGUDA",
+                    "branchcode":"011-156422",
+                    "branchaddress": "42/44, ENITAN STREET OFF ADETOLA ST AGUDA ,SUR"
                 },
                 {
-                     "branch": "AGUDA",
-                     "branchcode":"011-156422",
-                     "branchaddress": "42/44, ENITAN STREET OFF ADETOLA ST AGUDA ,SUR"
+                    "branch": "AJAH",
+                    "branchcode":"011-155528",
+                    "branchaddress": "AJIWE AJAH,ALONG LEKKI-EPE EXP WAY ,LEKKI ,LAG"
+                },
+                {
+                    "branch": "AJAH MARKET",
+                    "branchcode":"011-155423",
+                    "branchaddress": "ETI OSA L.G.A LAGOS ,LEKKI ,LAGOS STATE"
+                },
+                {
+                    "branch": "AJAO ESTATE",
+                    "branchcode":"011-155588",
+                    "branchaddress": "25, MURTALA MOHAMMED INTL AIRPORT ROAD ,AJAO"
+                },
+                {
+                    "branch": "AKOWONJO",
+                    "branchcode":"011-154039",
+                    "branchaddress": "AKOWONJO ROAD ,AKOWONJO ,LAGOS STATE"
+                },
+                {
+                    "branch": "AKUTE",
+                    "branchcode":"011-156572",
+                    "branchaddress": "AKUTE ,LAGOS STATE"
+                },
+                {
+                    "branch": "ALABA INT. MKT. OJO",
+                    "branchcode":"011-154136",
+                    "branchaddress": "29,OJO-IGBEDE RD NEW ALABA ,OJO ,LAGOS STATE"
+                },
+                {
+                    "branch": "ALAUSA",
+                    "branchcode":"011-152484",
+                    "branchaddress": "180 ALAUSA MOTORWAYS BUILDING ,ALAUSA ,LAGOS"
+                },
+                {
+                    "branch": "APAPA",
+                    "branchcode":"011-151045",
+                    "branchaddress": "1 BURMA ROAD, ,APAPA. ,LAGOS STATE"
+                },
+                {
+                    "branch": "AWOLOWOLO RD. LAGOS",
+                    "branchcode":"011-154686",
+                    "branchaddress": "116,AWOLOWO ROAD IKOYI ,IKOYI ,LAGOS STATE"
+                },
+                {
+                    "branch": "BADAGRY",
+                    "branchcode":"011-155229",
+                    "branchaddress": "113,JOSEPH DOSU WAY,OLD LAGOA ROAD ,BADAGRY"
+                },
+                {
+                    "branch": "BADORE",
+                    "branchcode":"011-156642",
+                    "branchaddress": "OANDO SERVISE STATION COCA-COLA BUS STOP BAD"
+                },
+                {
+                    "branch": "BARIGA",
+                    "branchcode":"011-155203",
+                    "branchaddress": "10,JAGUNMOLU STREET ,BARIGA ,LAGOS STATE"
+                },
+                {
+                    "branch": "BROAD ST LAGOS",
+                    "branchcode":"011-152316",
+                    "branchaddress": "214, BROAD STREET (ELEPHANT HOUSE) ,LAGOS ISLA"
+                },
+                {
+                    "branch": "CHEVRON/TEXACO",
+                    "branchcode":"011-154990",
+                    "branchaddress": "ALONG CHEVRON DRIVE,CHEVRON COMPLEX ,LEKKI"
+                },
+                {
+                    "branch": "COKER",
+                    "branchcode":"011-151579",
+                    "branchaddress": "PLOT 4 BLOCK C AMUWO ODOFIN IND LAYOUT ,AMUW"
+                },
+                {
+                    "branch": "CREEK ROAD APAPA",
+                    "branchcode":"011-155070",
+                    "branchaddress": "32,CREEK ROAD APAPA ,APAPA. ,LAGOS STATE"
+                },
+                {
+                    "branch": "DALEKO MARKET",
+                    "branchcode":"011-154152",
+                    "branchaddress": "DALEKO MKT. ,ISOLO ,LAGOS STATE"
+                },
+                {
+                    "branch": "DOPEMU",
+                    "branchcode":"011-154495",
+                    "branchaddress": "DEEBO PLAZA,618 DOPEMU-AKOWONJO RD DOPEMU"
+                },
+                {
+                    "branch": "EBUTE-METTA",
+                    "branchcode":"011-152345",
+                    "branchaddress": "1 SAVAGE STREET, APAPA ROAD, ,EBUTE-METTA ,LAGOS STATE"
+                },
+                {
+                    "branch": "EKO HOTEL",
+                    "branchcode":"011-155478",
+                    "branchaddress": "CITY EXPRESS BUILDING PLOT 1637 ADETOKUNBO AD"
+                },
+                {
+                    "branch": "EPE",
+                    "branchcode":"011-151456",
+                    "branchaddress": "P.M.B. 1022, ,EPE ,LAGOS STATE"
+                },
+                {
+                    "branch": "F.B.N. H/OFFICE FIN CONTROL",
+                    "branchcode":"011-151003",
+                    "branchaddress": "35 MARINA ,LAGOS ISLAND ,LAGOS STATE"
+                },
+                {
+                    "branch": "FALOMO SHOPPING CENTRE",
+                    "branchcode":"011-152400",
+                    "branchaddress": "AWOLOWO ROAD,IKOYI P.M.B. 1022,IKOYI ,IKOYI ,LAGOS"
+                },
+                {
+                    "branch": "FEDERAL SECRETARIAT",
+                    "branchcode":"011-152413",
+                    "branchaddress": "FEDERAL SECRETARIAT COMPLEX,IKOYI ,IKOYI ,LAGOS"
+                },
+                {
+                    "branch": "FESTAC",
+                    "branchcode":"011-155012",
+                    "branchaddress": "32 ROAD,FESTAC TOWN ,FESTAC ,LAGOS STATE"
+                },
+                {
+                    "branch": "IDDO MARKET",
+                    "branchcode":"011-154369",
+                    "branchaddress": "1,TAYLOR ROAD ,IDDO ,IDDO ,LAGOS STATE"
+                },
+                {
+                    "branch": "IDIMU",
+                    "branchcode":"011-154550",
+                    "branchaddress": "205,IDIMU ROAD ,YEM-KEM SHOPPING PLAZA ,AGEGE ,"
+                },
+                {
+                    "branch": "IFAKO GBAGADA",
+                    "branchcode":"011-156736",
+                    "branchaddress": "45,DIYA STREET,IFAKO ,IFAKO ,LAGOS STATE"
+                },
+                {
+                    "branch": "IGANMU",
+                    "branchcode":"011-151919",
+                    "branchaddress": "2,ABEBE VILLAGE ROAD ,IGANMU ,LAGOS STATE"
+                },
+                {
+                    "branch": "IJORA LAGOS",
+                    "branchcode":"011-151058",
+                    "branchaddress": "23/25 IJORA CROSSWAY,P.O BOX 228 ,APAPA. ,LAGOS"
+                },
+                {
+                    "branch": "IJU",
+                    "branchcode":"011-155504",
+                    "branchaddress": "159,IJU ROAD BY FAGBA B/STOP. ,IJU AGEGE ,LAGOS"
+                },
+                {
+                    "branch": "IKEJA",
+                    "branchcode":"011-151841",
+                    "branchaddress": "AIRPORT ROAD,P.O BOX 69 ,IKEJA ,LAGOS STATE"
+                },
+                {
+                    "branch": "IKEJA ALLEN AVENUE",
+                    "branchcode":"011-152099",
+                    "branchaddress": "58 ALLEN AVENUE, ,IKEJA ,LAGOS STATE"
+                },
+                {
+                    "branch": "IKEJA IND EST",
+                    "branchcode":"011-151883",
+                    "branchaddress": "21,OBA AKRAN AVENUE,P.O BOX 105 ,IKEJA ,LAGOS STATE"
+                },
+                {
+                    "branch": "IKEJA IND EST",
+                    "branchcode":"011-155892",
+                    "branchaddress": "IKEJA MILITARY CANTONMENT 9TH MECH BRIG, ,MARY"
+                },
+                {
+                    "branch": "IKEJA OBA AKRAN",
+                    "branchcode":"011-155106",
+                    "branchaddress": "46, OBA AKRAN AVENUE, IKEJA ,IKEJA ,LAGOS STATE"
+                },
+                {
+                    "branch": "IKORODU",
+                    "branchcode":"011-151799",
+                    "branchaddress": "88, LAGOS ROAD,P.O BOX 1005 ,IKORODU. ,LAGOS STATE"
+                },
+                {
+                    "branch": "IKOTA",
+                    "branchcode":"011-154097",
+                    "branchaddress": "IKOTA INT’L MARKET,IKOTA SHOPPING COMPLEX ,VICTORIA ISLAND"
+                },
+                {
+                    "branch": "IKOTA MAIN",
+                    "branchcode":"011-156655",
+                    "branchaddress": "LEKKI ,LAGOS STATE"
+                },
+                {
+                    "branch": "IKOTUN BRANCH",
+                    "branchcode":"011-155520",
+                    "branchaddress": "39,IKOTUN-IDIMU ROAD ,IKOTUN ,LAGOS STATELEKKI ,LAGOS STATE"
+                },
+                {
+                    "branch": "ILUPEJU",
+                    "branchcode":"011-151896",
+                    "branchaddress": "ILUPEJU BYE-PASS, P.M.B. 1173 ,ILUPEJU ,LAGOS STATE"
+                },
+                {
+                    "branch": "INT’L TRADE FAIR COMPLEX",
+                    "branchcode":"011-154274",
+                    "branchaddress": "WING B,HALL2 HEXAGON9,INT’L TRADE FAIR COMPLEX"
+                },
+                {
+                    "branch": "INVESTMENT HOUSE",
+                    "branchcode":"011-154835",
+                    "branchaddress": "21-25 BROAD STREET, ,LAGOS ,LAGOS STATE"
+                },
+                {
+                    "branch": "ISOLO",
+                    "branchcode":"011-151922",
+                    "branchaddress": "APAPA OSHODI EXPRESS WAY,IYANA ISOLO P.M.B.1034"
+                },
+                {
+                    "branch": "ITA-ELEWA",
+                    "branchcode":"011-156723",
+                    "branchaddress": "IKORODU ,LAGOS STATE"
+                },
+                {
+                    "branch": "IYANA IPAJA",
+                    "branchcode":"011-154482",
+                    "branchaddress": "177,LAGOS ABEOKUTA EXP RD ,IYANA IPAJA ,LAGOS"
+                },
+                {
+                    "branch": "JIBOWU",
+                    "branchcode":"011-154851",
+                    "branchaddress": "10,ALAKIJA STREET ,JIBOWU ,YABA ,LAGOS STATE"
+                },
+                {
+                    "branch": "KEFFI",
+                    "branchcode":"011-155119",
+                    "branchaddress": "4, KEFFI STREET, IKOYI ,IKOYI ,LAGOS STATE"
+                },
+                {
+                    "branch": "KETU",
+                    "branchcode":"011-152277",
+                    "branchaddress": "561, IKORODU ROAD,MILE 12,KETU ,KETU ,LAGOS STATE"
+                },
+                {
+                    "branch": "KOFO ABAYOMI",
+                    "branchcode":"011-154945",
+                    "branchaddress": "43,KOFO ABAYOMI AVENUE,APAPA ,APAPA. ,LAGOS STATE"
+                },
+                {
+                    "branch": "LAGOS (M.MOHAMMED WAY)",
+                    "branchcode":"011-152329",
+                    "branchaddress": "128,MURTALA MOH’D WAY P.O. BOX 1021 EBUTE METTA"
+                },
+                {
+                    "branch": "LAGOS REGIONAL CENTRE",
+                    "branchcode":"011-152471",
+                    "branchaddress": "IGANMU OFFICE COMPLEX PLOT 2, ,IGANMU LAGOS STATE"
+                },
+                {
+                    "branch": "LAPAL HOUSE",
+                    "branchcode":"011-155481",
+                    "branchaddress": "235,IGBOSERE ROAD,OBALENDE ,OBALENDE ,LAGOS STATE"
+                },
+                {
+                    "branch": "LAWANSON",
+                    "branchcode":"011-156082",
+                    "branchaddress": "59/61 LAWASON ROAD, SURULERE ,SURULERE ,LAGOS STATE"
+                },
+                {
+                    "branch": "LEKKI",
+                    "branchcode":"011-155465",
+                    "branchaddress": "BLOCK 90,CHRIS EFUNYEMI ONANUGA ST.OFF ADMIRAL"
+                },
+                {
+                    "branch": "MARINA",
+                    "branchcode":"011-152303",
+                    "branchaddress": "35,MARINA P.O.BOX 2006, LAGOS ,L/ISLAND ,LAGOS STATE"
+                },
+                {
+                    "branch": "MATORI",
+                    "branchcode":"011-152565",
+                    "branchaddress": "84/88 LADIPO STREET,PAPA AJAO ,MUSHIN ,LAGOS STATE"
+                },
+                {
+                    "branch": "MAYFAIR GARDENS",
+                    "branchcode":"011-156011",
+                    "branchaddress": "KM 36 AWOYAYA LAGOS /EPE EXPRESS WAY ,LEKKI"
+                },
+                {
+                    "branch": "MAZAMAZA",
+                    "branchcode":"011-155973",
+                    "branchaddress": "8,OLD OJO ROAD,MAZAMAZA ,LAGOS ,LAGOS STATE"
+                },
+                {
+                    "branch": "MOBIL ROAD",
+                    "branchcode":"011-151061",
+                    "branchaddress": "21, MOBIL ROAD AJEGUNLE ,APAPA. ,LAGOS STATE"
+                },
+                {
+                    "branch": "MOLONEY",
+                    "branchcode":"011-152374",
+                    "branchaddress": "28, BECKLEY STREET,LAGOS ,IKOYI ,LAGOS STATE"
+                },
+                {
+                    "branch": "MURTALA MOHAMMED INT’L AIRP",
+                    "branchcode":"011-151964",
+                    "branchaddress": "M/M AIRPORT COMPLEX,P.O BOX 4508 IKEJA"
+                },
+                {
+                    "branch": "MUSHIN",
+                    "branchcode":"011-155164",
+                    "branchaddress": "197,AGEGE MOTOR ROAD, ,MUSHIN ,LAGOS STATE"
+                },
+                {
+                    "branch": "NAVY TOWN",
+                    "branchcode":"011-152646",
+                    "branchaddress": "B.M.U. COMPLEX [ROAD 8],NAVY TOWN ,OJO ,LAGOS STATE"
+                },
+                {
+                    "branch": "NIGER HOUSE",
+                    "branchcode":"011-153292",
+                    "branchaddress": "1/5 ODUNLAMI STREET,PMB 12883,LAGOS"
+                },
+                {
+                    "branch": "NIJ HOUSE",
+                    "branchcode":"011-152439",
+                    "branchaddress": "20 ADEYEMO ALAKIJA STREET, ,P.M.B. 50, FALOMO. ,LAGOS STATE"
+                },
+                {
+                    "branch": "OBUN-EKO",
+                    "branchcode":"011-152332",
+                    "branchaddress": "126 N/AZIKIWE STREET, ,LAGOS ISLAND. ,LAGOS STAT"
+                },
+                {
+                    "branch": "OGBA",
+                    "branchcode":"011-152468",
+                    "branchaddress": "PLOT 7,BLOCK C, ACME ROAD, ,IKEJA. ,LAGOS STATE"
+                },
+                {
+                    "branch": "OGUDU",
+                    "branchcode":"011-156707",
+                    "branchaddress": "AREA H POLICE COMMAND ,OGUDU ,LAGOS STATE"
+                },
+                {
+                    "branch": "OJODU/ISHERI",
+                    "branchcode":"011-154958",
+                    "branchaddress": "AREA H POLICE COMMAND ,OGUDU ,LAGOS STATE"
+                },
+                {
+                    "branch": "OKE ARIN MARKET",
+                    "branchcode":"011-153438",
+                    "branchaddress": "53, OFFINROAD, LAGOS ,LAGOS ,LAGOS STATE"
+                },
+                {
+                    "branch": "OKE ODO",
+                    "branchcode":"011-154466",
+                    "branchaddress": "415,ABEOKUTA EXP WAY ILE -EPO B/STOP ,AGEGE ,LAGOS STATE"
+                },
+                {
+                    "branch": "OKOTA",
+                    "branchcode":"011-154819",
+                    "branchaddress": "3,AGO PALACE WAY ,OKOTA ,LAGOS STATE"
+                },
+                {
+                    "branch": "ONIRU MARKET",
+                    "branchcode":"011-156024",
+                    "branchaddress": "LEKKI PHASE ONE ,LEKKI ,LAGOS STATE"
+                },
+                {
+                    "branch": "OPEBI",
+                    "branchcode":"011-154628",
+                    "branchaddress": "ADEBOLA HOUSE ,40 OPEBI RD OFF ALLEN"
+                },
+                {
+                    "branch": "OREGUN INDUSTRIAL ESTATE",
+                    "branchcode":"011-152455",
+                    "branchaddress": "PLOT 2B, ADEWUNMI CLOSE ,IKEJA. ,LAGOS STATE"
+                },
+                {
+                    "branch": "OSAPA-LONDON",
+                    "branchcode":"011-155630",
+                    "branchaddress": "KILOMETRE 7, LEKKI-EPE EXPRESS WAY,OSAPA-LOND"
+                },
+                {
+                    "branch": "OSHODI",
+                    "branchcode":"011-154806",
+                    "branchaddress": "471 AGEGE MOTOR ROAD ,OSHODI ,LAGOS STATE"
+                },
+                {
+                    "branch": "OSHODI MILE2 EXPRESSWAY",
+                    "branchcode":"011-154479",
+                    "branchaddress": "PLOT 104 OSHODI MILE 2 EXP WAY,NEAR CELE B/STOP"
+                },
+                {
+                    "branch": "OWODE",
+                    "branchcode":"011-153548",
+                    "branchaddress": "IBESHE ROAD,P.M.B 231,IKORODU ,IKORODU ,LAGOS"
+                },
+                {
+                    "branch": "PROGRESSIVE MARKET",
+                    "branchcode":"011-156118",
+                    "branchaddress": "INT’L TRADE FAIR COMPLEX,ALL PROGRESSIVE TRADE"
+                },
+                {
+                    "branch": "REGISTRAR’S DEPARTMENT",
+                    "branchcode":"011-153014",
+                    "branchaddress": "IGANMU LAGOS ,IGANMU ,LAGOS STATE"
+                },
+                {
+                    "branch": "SANUSI FAFUNWA",
+                    "branchcode":"011-156765",
+                    "branchaddress": "PLOT 1681,SANUSI FAFUNWA STREET ,VICTORIA ISLAND"
+                },
+                {
+                    "branch": "SAUDI EKO MARKET",
+                    "branchcode":"011-155902",
+                    "branchaddress": "LAGOON PLAZA,BY LAGOS CENTRAL MOSQUE,NNAMDI"
+                },
+                {
+                    "branch": "SEME BORDER",
+                    "branchcode":"011-155216",
+                    "branchaddress": "NIGERIA CUSTOMS GROUND ,SEME BORDER ,LAGOS STATE"
+                },
+                {
+                    "branch": "SHOMOLU",
+                    "branchcode":"011-153182",
+                    "branchaddress": "188,IKORODU ROAD,ONIPANU ,SHOMOLU ,LAGOS STATE"
+                },
+                {
+                    "branch": "STOCK EXCHANGE BRANCH.",
+                    "branchcode":"011-152442",
+                    "branchaddress": "CUSTOMS STREET P.O BOX 7685,LAGOS ,LAGOS"
+                },
+                {
+                    "branch": "SURULERE",
+                    "branchcode":"011-152390",
+                    "branchaddress": "17,ITIRE ROAD,P.O.BOX. 273 ,SURULERE ,LAGOS STATE"
+                },
+                {
+                    "branch": "SURULERE SHOPPING CENT",
+                    "branchcode":"011-153166",
+                    "branchaddress": "84,ADENIRAN OGUNSANYA STREET C/O P.O.BOX.273 ,LAGOS STATE"
+                },
+                {
+                    "branch": "TEJUOSHO",
+                    "branchcode":"011-156215",
+                    "branchaddress": "29, TEJUOSHO STREET, YABA ,YABA ,LAGOS STATE"
+                },
+                {
+                    "branch": "TIN CAN ISLAND",
+                    "branchcode":"011-153234",
+                    "branchaddress": "TIN CAN ISLAND PORT COMPLEX ,LAGOS ,LAGOS STATE"
+                },
+                {
+                    "branch": "TOYIN OLOWU",
+                    "branchcode":"011-153234",
+                    "branchaddress": "14A,OLOWU STREET,OFF TOYIN ST. ,IKEJA ,LAGOS STATE"
+                },
+                {
+                    "branch": "TREASURY DEPARTMENT",
+                    "branchcode":"011-153250",
+                    "branchaddress": "135 MARINA ,LAGOS ,LAGOS STATE"
+                },
+                {
+                    "branch": "TRINITY",
+                    "branchcode":"011-154453",
+                    "branchaddress": "1,INDUSTRIAL RD BY TRINITY POLICE STATION,OLODI"
+                },
+                {
+                    "branch": "WESTERN HOUSE",
+                    "branchcode":"011-152387",
+                    "branchaddress": "8-10 BROAD STREET. ,L/ISLAND ,LAGOS STATE"
+                },
+                {
+                    "branch": "WIIOUGHBY",
+                    "branchcode":"011-155669",
+                    "branchaddress": "9A,WILLOUGHBY STREET ,EBUTE METTA ,LAGOS STATE"
+                },
+                {
+                    "branch": "YABA",
+                    "branchcode":"011-152358",
+                    "branchaddress": "322 HERBERT MACAULAY STREET,P.M.B 1040 ,YABA"
                 }
+            ],
+            "Nassarawa": [
+                {
+                    "branch": "LAFIA",
+                    "branchcode":"011-203883",
+                    "branchaddress": "LAFIA/JOS ROAD P.M.B. 5 LAFIA ,LAFIA ,NASARAWA ST"
+                },
+                {
+                    "branch": "MARARABA",
+                    "branchcode":"011-206408",
+                    "branchaddress": "KILOMETRE 20, ABUJA-KEFFI RD ,MARARABA ,NASARAWA"
+                }
+            ],
+            "Niger": [
+                {
+                    "branch": "BADEGGI",
+                    "branchcode":"011-166577",
+                    "branchaddress": "BADEGGI RICE PROCESSING COY KM16,BIDA-ABUJA"
+                },
+                {
+                    "branch": "BIDA",
+                    "branchcode":"011-161190",
+                    "branchaddress": "ZUNGERU ROAD P.O BOX 48 ,BIDA ,NIGER STATE"
+                },
+                {
+                    "branch": "KAGARA",
+                    "branchcode":"011-162238",
+                    "branchaddress": "P.M.B. 1 KAGARA ,KAGARA ,NIGER STATE"
+                },
+                {
+                    "branch": "KATCHA",
+                    "branchcode":"011-162186",
+                    "branchaddress": "C/O POSTAL AGENCY ,KATCHA ,NIGER STATE"
+                },
+                {
+                    "branch": "KONTAGORA",
+                    "branchcode":"011-162209",
+                    "branchaddress": "P,M.B. 6 ,KOTANGORA ,NIGER STATE"
+                },
+                {
+                    "branch": "KUTA",
+                    "branchcode":"011-162296",
+                    "branchaddress": "P.O BOX 5 KUTA ,KUTA ,NIGER STATE"
+                },
+                {
+                    "branch": "MINNA",
+                    "branchcode":"011-162526",
+                    "branchaddress": "3 BANK ROAD P.M.B. 62 ,MINNA ,NIGER STATE"
+                },
+                {
+                    "branch": "RIJAU",
+                    "branchcode":"011-163033",
+                    "branchaddress": "ZURU ROAD P.M.B. 2116, RIJAU. ,RIJAU ,NIGER STATE"
+                },
+                {
+                    "branch": "SULEJA",
+                    "branchcode":"011-161093",
+                    "branchaddress": "MINNA ROAD P.M.B. 23, SULEJA. ,SULEJA ,NIGER STATE"
+                },
+                {
+                    "branch": "SULEJA NEW MARKET",
+                    "branchcode":"011-166548",
+                    "branchaddress": "SULEJA ,NIGER STATE"
+                }
+            ],
+            "Ogun": [
+                {
+                    "branch": "ABEOKUTA",
+                    "branchcode":"011-171025",
+                    "branchaddress": "95 OBAFEMI AWOLOWO ROAD,P.M.B.2OO3 ,ABEOKUTA"
+                },
+                {
+                    "branch": "ABEOKUTA",
+                    "branchcode":"011-175186",
+                    "branchaddress": "ONIKOLOBO ROAD,ABEOKUTA ,ABEOKUTA. ,OGUN STATE"
+                },
+                {
+                    "branch": "EWEKORO",
+                    "branchcode":"011-175966",
+                    "branchaddress": "37, LAGOS ABEOKUTA EXPRESS WAY ,EWEKORO ,OGUN STATE"
+                },
+                {
+                    "branch": "IGBOGILA",
+                    "branchcode":"011-171753",
+                    "branchaddress": "P.M.B. 2015,ABEOKUTA ,IGBOGILA ,OGUN STATE"
+                },
+                {
+                    "branch": "IJEBU-ODE",
+                    "branchcode":"011-171973",
+                    "branchaddress": "26 IBADAN ROAD,P.M.B.2141,IJEBU-ODE ,IJEBU ODE."
+                },
+                {
+                    "branch": "MOSIMI",
+                    "branchcode":"011-174310",
+                    "branchaddress": "NNPC/PPMC COMPLEX,KM 17,IKORODU SAGAMU ROAD"
+                },
+                {
+                    "branch": "OGBERE",
+                    "branchcode":"011-172859",
+                    "branchaddress": "OLD BENIN ROAD,P.M.B.1005,OGBERE ,OGBERE ,OGUN STATE"
+                },
+                {
+                    "branch": "OTA",
+                    "branchcode":"011-152879",
+                    "branchaddress": "LAGOS/ABEOKUTA EXPRESSWAY P.M.B. 1036,OTA"
+                },
+                {
+                    "branch": "SHAGAMU",
+                    "branchcode":"011-173117",
+                    "branchaddress": "AKARIGBO STREET P.M.B. 2008,SHAGAMU"
+                }
+            ],
+            "Ondo": [
+                {
+                    "branch": "AKURE MAIN",
+                    "branchcode":"011-181086",
+                    "branchaddress": "1,ALAGBAKA ROAD,P.M.B. 707,AKURE ,AKURE ,ONDO"
+                },
+                {
+                    "branch": "AKURE MARKET",
+                    "branchcode":"011-183796",
+                    "branchaddress": "OBA ADESIDA STREET P.M.B. 629,AKURE ,AKURE"
+                },
+                {
+                    "branch": "AKURE OKE-ARO",
+                    "branchcode":"011-186104",
+                    "branchaddress": "OKE ARO/IDANRE ROAD ,AKURE ,ONDO STATE"
+                },
+                {
+                    "branch": "ARAROMI OBU",
+                    "branchcode":"011-173599",
+                    "branchaddress": "1,COLLEGE ROAD,ALOBA P.M.B. 505,ARAROMI-OBU"
+                },
+                {
+                    "branch": "COKER",
+                    "branchcode":"011-181837",
+                    "branchaddress": "L/21 ILEPA STREET P.M.B.275 ,IKARE ,ONDO STATE"
+                },
+                {
+                    "branch": "IDO-ANI",
+                    "branchcode":"011-181989",
+                    "branchaddress": "1,OLUYOLE STREET P.M.B.203 ,IDO ANI ,ONDO STATE"
+                },
+                {
+                    "branch": "IGBOKODA",
+                    "branchcode":"011-181947",
+                    "branchaddress": "OPPOSITE FORWARD NAVAL BASE 30,BROAD STREET"
+                },
+                {
+                    "branch": "IKARAM AKOKO",
+                    "branchcode":"011-181769",
+                    "branchaddress": "OYAGI STREET,P.O.BOX 001 ,IKARAM AKOKO ,ONDO STATE"
+                },
+                {
+                    "branch": "ILE OLUJI",
+                    "branchcode":"011-181934",
+                    "branchaddress": "1 OLD MOTOR PARK P.M.B.704 ,ILE-OLUJI ,ONDO STATE"
+                },
+                {
+                    "branch": "OKA AKOKO",
+                    "branchcode":"011-182807",
+                    "branchaddress": "6,IKESE-QUARTERS P.M.B. 07 ,OKA-AKOKO ,ONDO STATE"
+                },
+                {
+                    "branch": "ONDO",
+                    "branchcode":"011-182865",
+                    "branchaddress": "AGBOGBO-OKE ROAD,YABA,P.M.B. 55,ORE ,ONDOATE"
+                },
+                {
+                    "branch": "ORE",
+                    "branchcode":"011-182810",
+                    "branchaddress": "1 MARKET ROAD SABO QUARTERS ,ODIGBOL.G.A ,ONDO"
+                },
+                {
+                    "branch": "OWO",
+                    "branchcode":"011-182771",
+                    "branchaddress": "IDIMISASA STREET P.M.B. 1012,OWO L.G.A ,ONDO"
+                }
+            ],
+            "Osun": [
+                {
+                    "branch": "EDE",
+                    "branchcode":"011-194329",
+                    "branchaddress": "117, STATION ROAD P.M.B 217 EDEOSUN STATE"
+                },
+                {
+                    "branch": "ERIN-OSUN",
+                    "branchcode":"011-291361",
+                    "branchaddress": "COUNCIL ROAD,P.M.B 5001 ERIN OSUN ,ERIN OSUN STATE"
+                },
+                {
+                    "branch": "IJEBU-JESHA",
+                    "branchcode":"011-293835",
+                    "branchaddress": "A.59 OJA STREET P.M.B. 1003 ,IJEBU-JESHA. ,OSUN STATE"
+                },
+                {
+                    "branch": "IKIRE",
+                    "branchcode":"011-296434",
+                    "branchaddress": "OJA ALE SQUARE ,IKIRE ,OSUN STATE"
+                },
+                {
+                    "branch": "ILE-IFE",
+                    "branchcode":"011-291992",
+                    "branchaddress": "27 LAGERE LAYOUT P.M.B. 5534, ,ILE-IFE ,OSUN STATE"
+                },
+                {
+                    "branch": "ILESA",
+                    "branchcode":"011-291866",
+                    "branchaddress": "EREJA STREET P.M.B 5016,ILESA ,OSUN STATE"
+                },
+                {
+                    "branch": "INISA",
+                    "branchcode":"011-293893",
+                    "branchaddress": "MARKET SQUARE P.M.B. 2007, ,INISA. ,OSUN STATE"
+                },
+                {
+                    "branch": "IPETU-IJESA",
+                    "branchcode":"011-291950",
+                    "branchaddress": "PALACE SQUARE OKE-OJA P.M.B.2003 ,IPETU IJESA"
+                },
+                {
+                    "branch": "ISEYIN",
+                    "branchcode":"011-195687",
+                    "branchaddress": "10/12 OREMOJE AREA,SAKI ROAD P.M.B. 2020 ,ISEYIN"
+                },
+                {
+                    "branch": "OBAFEMI AWOLOWO UNIVERSITY",
+                    "branchcode":"011-296324",
+                    "branchaddress": "OBAFEMI AWOLOWO ILE-IFE ,ILE-IFE ,OSUN STATE"
+                },
+                {
+                    "branch": "OSHOGBO",
+                    "branchcode":"011-292768",
+                    "branchaddress": "152 STATION ROAD P.M.B. 301 ,OSHOGBO. ,OSUN STATE"
+                },
+                {
+                    "branch": "OSHOGBO GBONGAN",
+                    "branchcode":"011-295749",
+                    "branchaddress": "GBODOFON OSOGBO ,OSHOGBO ,OSUN STATE"
+                },
+                {
+                    "branch": "OSOGBO OKEFIA",
+                    "branchcode":"011-296146",
+                    "branchaddress": "11 ALEKUWODO ST OKEFIA ,OSHOGBO ,OSUN STATE"
+                }
+            ],
+            "Oyo": [
+                {
+                    "branch": "AWE",
+                    "branchcode":"011-193980",
+                    "branchaddress": "IFE-ODAN ROAD P.M.B 1017,AWE ,OYO STATE"
+                },
+                {
+                    "branch": "IBADAN AGODI",
+                    "branchcode":"011-191814",
+                    "branchaddress": "OYO STATE SECRETARIAT P.M.B.120 IBADAN ,IBADAN"
+                },
+                {
+                    "branch": "IBADAN AMUNIGUN",
+                    "branchcode":"011-191827",
+                    "branchaddress": "AMUNIGUN STREET P.M.B. 5120 ,IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "IBADAN APATA",
+                    "branchcode":"011-194594",
+                    "branchaddress": "SW9/960 APATA GANGA PMB 5386 ,IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "IBADAN BANK ROAD",
+                    "branchcode":"011-191801",
+                    "branchaddress": "BANK ROAD P.M.B. 5111 ,IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "IBADAN BODIJA MARKET",
+                    "branchcode":"011-194581",
+                    "branchaddress": "23,BODIJA MARKET,ISO PAKO RD OPP. POLICE STATION"
+                },
+                {
+                    "branch": "IBADAN BOLA IGE BUSINESS COM",
+                    "branchcode":"011-194248",
+                    "branchaddress": "SHOP D30,C/O BANK RD BRANCH P.M.B. 5111 ,IBADAN"
+                },
+                {
+                    "branch": "IBADAN IWO ROAD",
+                    "branchcode":"011-194358",
+                    "branchaddress": "59,IWO ROAD IBADAN ,IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "IBADAN MOKOLA",
+                    "branchcode":"011-195755",
+                    "branchaddress": "P.M.B. 5040,DUGBE ,IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "IBADAN MOLETE",
+                    "branchcode":"011-194293",
+                    "branchaddress": "48 MOLETE /CHALLENGE RD P.M.B 086,MAPO ,IBADAN"
+                },
+                {
+                    "branch": "IBADAN OKE-ADO",
+                    "branchcode":"011-195881",
+                    "branchaddress": "203 OBAFEMI AWOLOWO WAY OKE-ADO ,IBADAN ,OYO"
+                },
+                {
+                    "branch": "IBADAN OLUYOLE ESTATE",
+                    "branchcode":"011-193058",
+                    "branchaddress": "7,TOWN PLANNING WAY,OLUYOLE IND. ESTATE,P.M.B 5"
+                },
+                {
+                    "branch": "IBADAN ORITA CHALLENGE",
+                    "branchcode":"011-191212",
+                    "branchaddress": "OLD LAGOS ROAD,P.M.B. 5125 ,IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "NEW BODIJA",
+                    "branchcode":"011-196851",
+                    "branchaddress": "IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "OGBOMOSO",
+                    "branchcode":"011-192703",
+                    "branchaddress": "AKINWALE STREET,TACKIE SQUARE P.M.B. 3591"
+                },
+                {
+                    "branch": "OKEHO",
+                    "branchcode":"011-196097",
+                    "branchaddress": "IJO QUARTER NEAR OKEHO TOWN HALL ,OKEHO"
+                },
+                {
+                    "branch": "OKO",
+                    "branchcode":"011-193074",
+                    "branchaddress": "OSOGBO ROAD P.M.B. 4008,EJIGBO ,EJIGBO ,OYO STATE"
+                },
+                {
+                    "branch": "OLORUNSOGO AKANRAN",
+                    "branchcode":"011-196136",
+                    "branchaddress": "ALONG OLORUNSOGO AKANRAN RD ,IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "OYO",
+                    "branchcode":"011-192787",
+                    "branchaddress": "ASOGO STREET P.M.B 1002, OYO STATE"
+                },
+                {
+                    "branch": "OYO",
+                    "branchcode":"011-196204",
+                    "branchaddress": "OWODE ROUND ABOUT, P.M.B. 1005 ,OYO ,OYO STATE"
+                },
+                {
+                    "branch": "POLYTECHNIC IBADAN",
+                    "branchcode":"011-196893",
+                    "branchaddress": "SANGO/POLYTECHNIC RD BESISE SOUTH CAMPUS"
+                },
+                {
+                    "branch": "SAKI BRANCH",
+                    "branchcode":"011-193249",
+                    "branchaddress": "UNIV. COLLEGE HOSPITAL,OPP WATER TREA ,IBADAN"
+                },
+                {
+                    "branch": "SAKI BRANCH",
+                    "branchcode":"011-193249",
+                    "branchaddress": "SANGO ROAD,AJEGUNLE ,SAKI ,OYO STATE"
+                },
+                {
+                    "branch": "UNIVERSITY OF IBADAN",
+                    "branchcode":"011-191238",
+                    "branchaddress": "P.M.B. 128 U.I POST OFFICE ,IBADAN ,OYO STATE"
+                }
+            ],
+            "Plateau": [
+                {
+                    "branch": "BARKIN LADI",
+                    "branchcode":"011-201160",
+                    "branchaddress": "BLOCK 25 A & B,STATE LOW COST P.M.B. 2007 ,BARKIN"
+                },
+                {
+                    "branch": "BASSA",
+                    "branchcode":"011-201157",
+                    "branchaddress": "P.O.BOX 1377 ,BASSA ,PLATEAU STATE"
+                },
+                {
+                    "branch": "BUKURU",
+                    "branchcode":"011-201128",
+                    "branchaddress": "31,BUKURU ROAD P.M.B. 2002 ,BUKURU ,PLATEAU STATE"
+                },
+                {
+                    "branch": "JOS GOVT SECRETARIAT",
+                    "branchcode":"011-202020",
+                    "branchaddress": "C/O GOVT. SECRETARIAT ,JOS ,PLATEAU STATE"
+                },
+                {
+                    "branch": "JOS MAIN",
+                    "branchcode":"011-202004",
+                    "branchaddress": "BANK STREET P.M.B.2027 ,JOS ,PLATEAU STATE"
+                },
+                {
+                    "branch": "JOS MARKET",
+                    "branchcode":"011-202017",
+                    "branchaddress": "MARKET ROAD P.M.B. 467 ,JOS ,PLATEAU STATE"
+                },
+                {
+                    "branch": "JOS UNIJOS",
+                    "branchcode":"011-202046",
+                    "branchaddress": "2,BAUCHI RD,CAMPUS.C/O P.M.B. 2027 ,JOS ,PLATEAU STATE"
+                },
+                {
+                    "branch": "KURGWI",
+                    "branchcode":"011-201665",
+                    "branchaddress": "C/O LAFIA BRANCH,P.M.B. 5,LAFIA ,KURGWI ,PLATEAU STATE"
+                },
+                {
+                    "branch": "MANGU",
+                    "branchcode":"011-202554",
+                    "branchaddress": "P.O.BOX 60 ,MANGU ,PLATEAU STATE"
+                },
+                {
+                    "branch": "TORO",
+                    "branchcode":"011-033202",
+                    "branchaddress": "NEAR L G SECRETARIAT P.M.B 3,TORO ,PLATEAU STATE"
+                }
+            ],
+            "Rivers": [
+                {
+                    "branch": "BONNY",
+                    "branchcode":"011-214102",
+                    "branchaddress": "2 NEW ROAD, BONNY ,BONNY ,RIVERS STATE"
+                },
+                {
+                    "branch": "BONNY HOSPITAL ROAD",
+                    "branchcode":"011-215088",
+                    "branchaddress": "24, HOSPITAL ROAD, BONNY ISLAND ,BONNY ISLAND"
+                },
+                {
+                    "branch": "BONNY NLNG",
+                    "branchcode":"011-214937",
+                    "branchaddress": "NLNG RESIDENTIAL AREA,BONNY ,BONNY ,RIVERS STATE"
+                },
+                {
+                    "branch": "CHOBA",
+                    "branchcode":"011-215842",
+                    "branchaddress": "206,UNIPORT ROAD,CHOBA ,PORT HARCOURT ,RIVERS"
+                },
+                {
+                    "branch": "MBIAMA YENOGOA",
+                    "branchcode":"011-216155",
+                    "branchaddress": "MBIAMA YENEGOA ROAD, YENEZUE GENE ,P/H NORTH"
+                },
+                {
+                    "branch": "ONNE",
+                    "branchcode":"011-215868",
+                    "branchaddress": "FLT ONNE ROAD,OPP INTELS CAMP(OGFZA) P.M.B 6197"
+                },
+                {
+                    "branch": "PH OLU OBASANJO ROAD",
+                    "branchcode":"011-215046",
+                    "branchaddress": "346, OLU OBASANJO ROAD, PORT HARCOURT P.M.B. 54"
+                },
+                {
+                    "branch": "PORT HARCOURT (TOWN)",
+                    "branchcode":"011-212913",
+                    "branchaddress": "P.M.B.6197 ,PORT HARCOURT ,RIVERS STATE"
+                },
+                {
+                    "branch": "PORT HARCOURT ARTILLARY",
+                    "branchcode":"011-215855",
+                    "branchaddress": "PORT HARCOURT ,RIVERS STATE"
+                },
+                {
+                    "branch": "PORT HARCOURT DIOBU",
+                    "branchcode":"011-212942",
+                    "branchaddress": "33,IKWERRE ROAD,DIOBU P.M.B.5007 ,PORT HARCOURT"
+                },
+                {
+                    "branch": "PORT HARCOURT GARISSON",
+                    "branchcode":"011-215130",
+                    "branchaddress": "1, AGUDAMA AVENUE, D-LINE JUNCTION, GAS BUS STOP"
+                },
+                {
+                    "branch": "PORT HARCOURT OYIGBO",
+                    "branchcode":"011-216537",
+                    "branchaddress": "OYIGBO L.G.A ,OYIGBO ,RIVERS STATE"
+                },
+                {
+                    "branch": "PORT HARCOURT RUMUOKWURIS",
+                    "branchcode":"011-214649",
+                    "branchaddress": "315,PH/ABA ROAD (IZZI HOUSE) P.M.B 5736 ,PORT HARCOURT"
+                },
+                {
+                    "branch": "PORT HARCOURT RUMUOLA",
+                    "branchcode":"011-215871",
+                    "branchaddress": "77,RUMUOLA ROAD,RUMUOLA ,PORT HARCOURT ,RIVERS STATE"
+                },
+                {
+                    "branch": "PORT HARCOURT RUMUOMASI",
+                    "branchcode":"011-212926",
+                    "branchaddress": "P.O.BOX 646 ,PORT HARCOURT ,RIVERS STATE"
+                },
+                {
+                    "branch": "PORT HARCOURT SHELL",
+                    "branchcode":"011-214076",
+                    "branchaddress": "SHELL COMPLEX P/H ,PORT HARCOURT ,RIVERS STATE"
+                },
+                {
+                    "branch": "PORT HARCOURT STATION ROAD",
+                    "branchcode":"011-212900",
+                    "branchaddress": "1,STATION ROAD P.M.B.5007 ,PORT HARCOURT ,RIVERS STATE"
+                },
+                {
+                    "branch": "PORT HARCOURT TRANS-AMADI",
+                    "branchcode":"011-212939",
+                    "branchaddress": "PLOT 745,TRANS AMADI IND. ESTATE P.M.B. 5865 ,PORT HARCOURT"
+                },
+                {
+                    "branch": "PORTHARCOURT MAIN",
+                    "branchcode":"011-214348",
+                    "branchaddress": "22/24 ABA ROAD PORT HARCOURT"
+                }
+            ],
+            "Sokoto": [
+                {
+                    "branch": "ILLEILA",
+                    "branchcode":"011-221739",
+                    "branchaddress": "BIRNIN KONNI ROAD C/O SOKOTO MAIN BRANCH P.M.B."
+                },
+                {
+                    "branch": "SOKOTO DANFODIO ROAD",
+                    "branchcode":"011-223779",
+                    "branchaddress": "ABDULLAHI FODIO ROAD P.M.B.2166 ,SOKOTO"
+                },
+                {
+                    "branch": "SOKOTO MAIN",
+                    "branchcode":"011-223122",
+                    "branchaddress": "KANO ROAD P.M.B. 2160 ,SOKOTO ,SOKOTO. STATE"
+                },
+                {
+                    "branch": "TAMBAWAL",
+                    "branchcode":"011-223229",
+                    "branchaddress": "OPPOSITE HEALTH CENTREP.M.B.1082 ,TAMBAWAL"
+                },
+                {
+                    "branch": "BAMBUR",
+                    "branchcode":"011-303686",
+                    "branchaddress": "C/O YOLA MAIN BRANCH P.M.B. 2050 ,YOLA ,TARABA"
+                }
+            ],
+            "Taraba": [
+                {
+                    "branch": "JALINGO",
+                    "branchcode":"011-303631",
+                    "branchaddress": "65 BARDE WAY P.M.B. 1095 ,JALINGO ,TARABA STATE"
+                },
+                {
+                    "branch": "KARIM LAMIDO",
+                    "branchcode":"011-302250",
+                    "branchaddress": "P.M.B. 4 ,YOLA ,TARABA STATE"
+                },
+                {
+                    "branch": "LAU",
+                    "branchcode":"011-302496",
+                    "branchaddress": "P.M.B. 4 ,LAU ,TARABA STATE"
+                },
+                {
+                    "branch": "MAYO NDAGA",
+                    "branchcode":"011-303356",
+                    "branchaddress": "C/O YOLA MAIN BRANCH P.M.B. 2050 ,YOLA ,TARABA STATE"
+                },
+                {
+                    "branch": "ZING",
+                    "branchcode":"011-303712",
+                    "branchaddress": "C/O YOLA MAIN BRANCH P.M.B. 2051 ,YOLA ,TARABA STATE"
+                }
+            ],
+            "Yobe": [
+                {
+                    "branch": "BUNI YADI",
+                    "branchcode":"011-316958",
+                    "branchaddress": "BUNI YADI ,YOBE STATE"
+                },
+                {
+                    "branch": "DAMATURU",
+                    "branchcode":"011-311306",
+                    "branchaddress": "GASHUA ROAD,P.M.B 1009 ,DAMATURU ,YOBE STATE"
+                },
+                {
+                    "branch": "GASHUA",
+                    "branchcode":"011-311607",
+                    "branchaddress": "OPPOSITE MARKET P.M.B. 04 ,GASHUA ,YOBE STATE"
+                },
+                {
+                    "branch": "GEIDAM",
+                    "branchcode":"011-311610",
+                    "branchaddress": "OPPOSITE MARKET P.M.B. 04 ,GASHUA ,YOBE STATE"
+                },
+                {
+                    "branch": "NGURU",
+                    "branchcode":"011-312606",
+                    "branchaddress": "ALI KAHTAN ROAD P.M.B.12 ,NGURU ,YOBE STATE"
+                },
+                {
+                    "branch": "POTISKUM",
+                    "branchcode":"011-312978",
+                    "branchaddress": "IBRAHIM ALKALI ROAD,P.M.B 46 POTISKUM ,POTISKUM"
+                }
+            ],
+            "Zamfara": [
+                {
+                    "branch": "ANKA",
+                    "branchcode":"011-323908",
+                    "branchaddress": "DAKI TAKWAS ROAD,P.M.B. 1003 ,ANKA ,ZAMFARA STATE"
+                },
+                {
+                    "branch": "BAKURA",
+                    "branchcode":"011-374880",
+                    "branchaddress": "OPPOSITE BAKURA CENTRAL MOSQUE ,BAKORA ,ZAMFARA STATE"
+                },
+                {
+                    "branch": "GUMMI",
+                    "branchcode":"011-221658",
+                    "branchaddress": "OPPOSITE L.G.A SECRETARIAT P.M.B. 02 ,GUMMI ,ZAMFARA STATE"
+                },
+                {
+                    "branch": "GUSAU",
+                    "branchcode":"011-221632",
+                    "branchaddress": "CANTEEN AREA P.M.B.1019 ,GUSAU ,ZAMFARA STATE"
+                },
+                {
+                    "branch": "SHINKAFI",
+                    "branchcode":"011-223177",
+                    "branchaddress": "ISA/GUSSAU ROAD P.M.B 2,SHINKAFI ,ZAMFARA STATE"
+                }
+            ]
+        }
+    },
+    {
+        "bank": "FIRST CITY MONUMENT BANK PLC",
+        "code": "214",
+        "abb": "FCB",
+        "ussd": "*329#",
+        "state": {
+            "Abia": [
+                {
+                    "branch": "Asa Road I Branch",
+                    "branchcode":"214100013",
+                    "branchaddress": "90  Asa Road, Aba"
+                },
+                {
+                    "branch": "Brass Road Branch",
+                    "branchcode":"214232376",
+                    "branchaddress": "10  Brass Road Branch, Aba, Abia State"
+                },
+                {
+                    "branch": "Faulks Road Branch",
+                    "branchcode":"214100026",
+                    "branchaddress": "161 Faulks Road, Aba"
+                },
+                {
+                    "branch": "Umuahia Branch",
+                    "branchcode":"214232677",
+                    "branchaddress": "5 Library Avenue,  Umuahia"
+                },
+                {
+                    "branch": "Umuahia Branch",
+                    "branchcode":"214250252",
+                    "branchaddress": "10, Akanu Ibiam Road, Umuahia, Abia State"
+                }
+            ],
+            "Adamawa": [
+                {
+                    "branch": "Yola Branch",
+                    "branchcode":"214090039",
+                    "branchaddress": "No 22 Atiku Abubakar Way Yola"
+                }
+            ],
+            "Akwa Ibom":[
+                {
+                    "branch": "Eket Branch",
+                    "branchcode":"214010022",
+                    "branchaddress": "Grace Bill, By Marina Junction, Eket, Akwa Ibom"
+                },
+                {
+                    "branch": "Ikot Ekpene I Branch",
+                    "branchcode":"214010048",
+                    "branchaddress": "5 Harley Drive, Ikot Ekpene,  Akwa Ibom State"
+                },
+                {
+                    "branch": "Uyo Abak Road Branch",
+                    "branchcode":"214010080",
+                    "branchaddress": "143 Abak Road, Uyo,  Akwa Ibom State"
+                },
+                {
+                    "branch": "Uyo, Oron Branch",
+                    "branchcode":"214010051",
+                    "branchaddress": "105 Oron Road, Uyo, Akwa Ibom"
+                }
+            ],
+            "Anambra":[
+                {
+                    "branch": "Awka Branch",
+                    "branchcode":"214250044",
+                    "branchaddress": "84  Nnamdi Azikiwe Ave, Awka, Anambra State"
+                },
+                {
+                    "branch": "Awka II Branch",
+                    "branchcode":"214022434",
+                    "branchaddress": "38 Zik Avenue,  Awka, Anambra State"
+                },
+                {
+                    "branch": "Ekwulobia Branch",
+                    "branchcode":"214022450",
+                    "branchaddress": "10 Awka Road, Ekwulobia, Anambra State"
+                },
+                {
+                    "branch": "Nnewi I Branch",
+                    "branchcode":"214250028",
+                    "branchaddress": "15 Oraifite Road, Nnewi, Anambra State."
+                },
+                {
+                    "branch": "Nnewi II Branch",
+                    "branchcode":"214022719",
+                    "branchaddress": "Zone 19 New Machine Parts Market, Nnewi, Anambra State"
+                },
+                {
+                    "branch": "Obosi Branch",
+                    "branchcode":"214022706",
+                    "branchaddress": "Electrical Market, Obosi, Onitsha, Anambra State"
+                },
+                {
+                    "branch": "Oko Branch",
+                    "branchcode":"214250031",
+                    "branchaddress": "4 Hospital Road, Along Ekwulobia-Oko Road, Ekwulobia, Anambra State"
+                },
+                {
+                    "branch": "Onitsha Bridgehead Branch",
+                    "branchcode":"214020025",
+                    "branchaddress": "40, Ugah Street, Bridgehead, Onitsha, Anambra"
+                },
+                {
+                    "branch": "Onitsha New Market Rd Iii Branch",
+                    "branchcode":"214022489",
+                    "branchaddress": "53 New Market Road, Onitsha, Anambra State"
+                },
+                {
+                    "branch": "Onitsha New Mkt Rd I Branch",
+                    "branchcode":"214150012",
+                    "branchaddress": "53 New Market Road, Onitsha, Anambra State"
+                }
+            ],
+            "Bauchi":[
+                {
+                    "branch": "Azare Branch",
+                    "branchcode":"214031917",
+                    "branchaddress": "No 4 Jamaare Road, Azare, Bauchi State."
+                },
+                {
+                    "branch": "Bauchi Jos Road",
+                    "branchcode":"214191925",
+                    "branchaddress": "19/23 Jos Road, Bauchi(Isa Yuguda House)"
+                },
+                {
+                    "branch": "Commercial Rd Bauchi Branch",
+                    "branchcode":"214030015",
+                    "branchaddress": "Former Women Development Center, G.R.A., Bauchi, Bauchi State."
+                }
+            ],
+            "Bayelsa":[
+                {
+                    "branch": "Yenagoa  Branch",
+                    "branchcode":"214210039",
+                    "branchaddress": "181 Mbiama Road, Yenagoa, Bayelsa."
+                },
+                {
+                    "branch": "Yenagoa  Branch",
+                    "branchcode":"214322406",
+                    "branchaddress": "76, Mbiama/Yenagoa Road (By Chief Obele Street Junction), Ovom-Yenagoa, Bayelsa State."
+                }
+            ],
+            "Benue":[
+                {
+                    "branch": "Makurdi Branch",
+                    "branchcode":"214050011",
+                    "branchaddress": "No.20b New Bridge Road, Makurdi"
+                }
+            ],
+            "Borno": [
+                {
+                    "branch": "Maiduguri I Branch",
+                    "branchcode":"214060014",
+                    "branchaddress": "Baga Road, Before The Railway Crossing, Maiduguri, Borno."
+                }
+            ],
+            "Cross River":[
+                {
+                    "branch": "Calabar Branch",
+                    "branchcode":"214070017",
+                    "branchaddress": "14 Calabar Road, Calabar, Cross Rivers."
+                },
+                {
+                    "branch": "Ikom Branch",
+                    "branchcode":"214070020",
+                    "branchaddress": "7 Calabar Road, Ikom, Cross River State"
+                },
+                {
+                    "branch": "New Secretariat, Calabar  Branch",
+                    "branchcode":"214072358",
+                    "branchaddress": "New Secretariat Complex, Murtala Mohammed Highway, Calabar, Cross River State"
+                }
+            ],
+            "Delta":[
+                {
+                    "branch": "Asaba I Branch",
+                    "branchcode":"214090026",
+                    "branchaddress": "370 Nnebisi Road, Asaba, Delta"
+                },
+                {
+                    "branch": "Asaba Nnebisi Road Branch",
+                    "branchcode":"214042388",
+                    "branchaddress": "461 Nnebisi Road Asaba, Delta State"
+                },
+                {
+                    "branch": "Effurun Branch",
+                    "branchcode":"214040034",
+                    "branchaddress": "68 Effurun/Sapele Road, Warri, Delta State"
+                },
+                {
+                    "branch": "Ughelli Branch",
+                    "branchcode":"214042579",
+                    "branchaddress": "30 Ughelli/Warri Road, Ughelli, Delta State."
+                },
+                {
+                    "branch": "Warri I Branch",
+                    "branchcode":"214090013",
+                    "branchaddress": "37 Okumagba Avenue, By Okere Round About, Warri"
+                },
+                {
+                    "branch": "Warri II (Airport Rd) Branch",
+                    "branchcode":"214042346",
+                    "branchaddress": "52, Airport Road, Warri, Delta State"
+                }
+            ],
+            "Ebonyi":[
+                {
+                    "branch": "Abakaliki Branch",
+                    "branchcode":"214250060",
+                    "branchaddress": "36b Sam Egwu Way, Abakaliki, Ebonyi State."
+                }
+            ],
+            "Edo":[
+                {
+                    "branch": "Mission Road Branch",
+                    "branchcode":"214040012",
+                    "branchaddress": "112 Mission Road, Benin City, Edo"
+                },
+                {
+                    "branch": "Ugbowo Branch",
+                    "branchcode":"214040063",
+                    "branchaddress": "183 Uselu-Ugbowo Road, Benin City, Edo State"
+                }
+            ],
+            "Ekiti": [
+                {
+                    "branch": "Ado-Ekiti Branch",
+                    "branchcode":"214180050",
+                    "branchaddress": "New  Secretariat Road, Ado Ekiti"
+                }
+            ],
+            "Enugu":[
+                {
+                    "branch": "Agbani Town Branch",
+                    "branchcode":"214252657",
+                    "branchaddress": "71 Enugu Road , Agbani Town, Enugu State"
+                },
+                {
+                    "branch": "Enugu Mkt Rd Branch",
+                    "branchcode":"214250015",
+                    "branchaddress": "12a Market Road, Enugu, Enugu State"
+                },
+                {
+                    "branch": "Garden Avenue Enugu Branch",
+                    "branchcode":"214250028",
+                    "branchaddress": "41 Garden Avenue, Enugu, Enugu State"
+                },
+                {
+                    "branch": "Nsukka Branch",
+                    "branchcode":"214252631",
+                    "branchaddress": "7b University Road, Nsukka, Enugu State"
+                },
+                {
+                    "branch": "Presidential Road Branch",
+                    "branchcode":"214252783",
+                    "branchaddress": "4 Presidential Avenue, Nkpokiti Junction, Enugu, Enugu Tate"
+                }
+            ],
+            "FCT": [
+                {
+                    "branch": "Abuja  Zone 4 Branch",
+                    "branchcode":"214081899",
+                    "branchaddress": "Plot 532 Ibb Way Zone 4 Wuse - Abuja"
+                },
+                {
+                    "branch": "Abuja Aminu Kano Crescent Branch",
+                    "branchcode":"214082209",
+                    "branchaddress": "Plot 112, Aminu Kano Crescent, Opposite Shaif Plaza, Wuse 2, Abuja"
+                },
+                {
+                    "branch": "Abuja Area 7 Branch",
+                    "branchcode":"214081857",
+                    "branchaddress": "1, Yola Street, Area 7, Garki Abuja"
+                },
+                {
+                    "branch": "Abuja Area 8 Branch",
+                    "branchcode":"214080023",
+                    "branchaddress": "6, Ogbomosho Street, Area 8, Garki"
+                },
+                {
+                    "branch": "Abuja Banex Plaza Branch",
+                    "branchcode":"214081006",
+                    "branchaddress": "Plot 750 Aminu Kano Way, Wuse, Abuja"
+                },
+                {
+                    "branch": "Abuja Bwari Branch",
+                    "branchcode":"214082186",
+                    "branchaddress": "1, Council Secretariat Avenue, Bwari Area Council Abuja"
+                },
+                {
+                    "branch": "Abuja Crest Plaza Branch",
+                    "branchcode":"214082270",
+                    "branchaddress": "1st Avenue, Crest Plaza, Gwarimpa, Abuja"
+                },
+                {
+                    "branch": "Abuja Fedsec Phase Iii Branch",
+                    "branchcode":"214080049",
+                    "branchaddress": "Federal Secretariat Complex Phase 3, Abuja"
+                },
+                {
+                    "branch": "Abuja First City Plaza Branch",
+                    "branchcode":"214080010",
+                    "branchaddress": "Plot 252 Herbert Macauly Way. Cdb, Abuja"
+                },
+                {
+                    "branch": "Abuja Gana Street Branch",
+                    "branchcode":"214082335",
+                    "branchaddress": "30 Gana Street, Maitama,  Abuja"
+                },
+                {
+                    "branch": "Abuja Garki II Branch",
+                    "branchcode":"214081909",
+                    "branchaddress": "Plot 1640 Ladoke Akintola Boulevard, Garki Ii - Abuja"
+                },
+                {
+                    "branch": "Abuja Izon Wari Branch",
+                    "branchcode":"214082225",
+                    "branchaddress": "Izon Wari House, 1038 Shehu Shagari Way, Bayelsa Guest House, Maitama, Abuja"
+                },
+                {
+                    "branch": "Abuja Kubwa Branch",
+                    "branchcode":"214082319",
+                    "branchaddress": "Plot 136b Gado Nasko Road, Kubwa, Abuja"
+                },
+                {
+                    "branch": "Abuja Kuje Branch",
+                    "branchcode":"214082267",
+                    "branchaddress": "Plot 33a Sauka Extension, Kuje Town Centre, Fct"
+                },
+                {
+                    "branch": "Abuja Nass I Branch",
+                    "branchcode":"214082238",
+                    "branchaddress": "White House Basement, National Assembly Complex, Three Arms Zone, Abuja"
+                },
+                {
+                    "branch": "Abuja Porthacourt Crescent Branch",
+                    "branchcode":"214212053",
+                    "branchaddress": "14 Port Harcourt Crescent, Off Gimbiya Street, Area 11-Garki, Abuja"
+                },
+                {
+                    "branch": "Abuja Wuse II Branch",
+                    "branchcode":"214082335",
+                    "branchaddress": "Plt No 108,Adetokunbo Ademola Cadastral Zone A08, Wuse 2 District, Abuja"
+                },
+                {
+                    "branch": "Asokoro Branch",
+                    "branchcode":"214081828",
+                    "branchaddress": "75 Yakubu Gowon Crescent, Asokoro, Abuja"
+                },
+                {
+                    "branch": "Gwagwalada Branch",
+                    "branchcode":"214082254",
+                    "branchaddress": "203a, Phase One Quarters, Specialist Hospital Road, Gwagwalada, Abuja"
+                },
+                {
+                    "branch": "Jabi Branch",
+                    "branchcode":"214082063",
+                    "branchaddress": "Mallam Shehu Plaza, Plot 35, I.T Igbani Street, Off Obafemi Awolowo Way, Jabi, Abuja"
+                },
+                {
+                    "branch": "Maitama Mediterranean Branch",
+                    "branchcode":"214082076",
+                    "branchaddress": "No. 4 Mediterranean Street, Imani Estate, Maitama, Abuja"
+                }
+            ],
+            "Gombe":[
+                {
+                    "branch": "Ashaka Branch",
+                    "branchcode":"214030028",
+                    "branchaddress": "Ashaka Cement Factory Complex, Ashaka , Gombe State"
+                },
+                {
+                    "branch": "Gombe 1 Branch",
+                    "branchcode":"214030028",
+                    "branchaddress": "11 Biu Link Road, Opposite Central Market, Gombe"
+                }
+            ],
+            "Imo": [
+                {
+                    "branch": "Mbaise Rd Owerri Branch",
+                    "branchcode":"214102516",
+                    "branchaddress": "5b Mbaise Rd, Owerri, Imo State"
+                },
+                {
+                    "branch": "Orlu II Branch",
+                    "branchcode":"214102736",
+                    "branchaddress": "5 L.N. Obioha Road, Orlu, Imo."
+                },
+                {
+                    "branch": "Wetheral Road I Branch",
+                    "branchcode":"214100055",
+                    "branchaddress": "81 Wetheral Road, Owerri, Imo State"
+                },
+                {
+                    "branch": "Wetheral Road II Branch",
+                    "branchcode":"214102419",
+                    "branchaddress": "40 Wetheral Road, Owerri, Imo State."
+                }
+            ],
+            "Jigawa":[
+                {
+                    "branch": "Dutse 1 Branch",
+                    "branchcode":"214120048",
+                    "branchaddress": "12a-13a, Kiyawa Road, Dutse, Jigawa State"
+                }
+            ],
+            "Kaduna": [
+                {
+                    "branch": "Ahmadu Bello Way Kaduna Branch",
+                    "branchcode":"214110016",
+                    "branchaddress": "1a, Ahmadu Bello Way, Kaduna"
+                },
+                {
+                    "branch": "Ali Akilu Road Kaduna Branch",
+                    "branchcode":"214111989",
+                    "branchaddress": "No 40 Ali Akilu Road, Kaduna."
+                },
+                {
+                    "branch": "Kachia Police Branch Branch",
+                    "branchcode":"214112098",
+                    "branchaddress": "Beside Kachia Police Station, Kachia, Kaduna."
+                },
+                {
+                    "branch": "Kachia Road Kaduna Branch",
+                    "branchcode":"214110029",
+                    "branchaddress": "1 / 2a Kachia Road, Kaduna"
+                },
+                {
+                    "branch": "Kano Road Kaduna Branch",
+                    "branchcode":"214111840",
+                    "branchaddress": "No 26/27 Constitution Road, Kaduna"
+                },
+                {
+                    "branch": "Sabon Tasha Branch",
+                    "branchcode":"214111976",
+                    "branchaddress": "26, Kachia Road, Sabon Tasha. Kaduna"
+                },
+                {
+                    "branch": "Yakubu Gowon Way Kaduna Branch",
+                    "branchcode":"214112108",
+                    "branchaddress": "No 6 Yakubu Gowon Way , Kaduna"
+                }
+            ],
+            "Kano":[
+                {
+                    "branch": "Kano 40 Mm Way  Branch",
+                    "branchcode":"214121995",
+                    "branchaddress": "40 Murtala Mohammed Way, Kano"
+                },
+                {
+                    "branch": "Kano Bello Road Branch",
+                    "branchcode":"214120022",
+                    "branchaddress": "17/18 Bello Road Kano Kano State"
+                },
+                {
+                    "branch": "7, Bompai Road, Kano.",
+                    "branchcode":"214122130",
+                    "branchaddress": "Kano Bompai Branch"
+                },
+                {
+                    "branch": "Kano Ibrahim Taiwo Branch",
+                    "branchcode":"214122004",
+                    "branchaddress": "58e Ibrahim Taiwo Road, Kano"
+                },
+                {
+                    "branch": "Kano Main Branch",
+                    "branchcode":"214120019",
+                    "branchaddress": "145 Murtala Mohammed Way, Kano."
+                },
+                {
+                    "branch": "Kano Mm Way 1 Branch",
+                    "branchcode":"214121830",
+                    "branchaddress": "9c, Murtala Mohammed Road, Kano."
+                }
+            ],
+            "Katsina": [
+                {
+                    "branch": "Katsina I Branch",
+                    "branchcode":"214130012",
+                    "branchaddress": "132 Ibb Way, Kano/Katsina Road, By Yantomaki Road, Katsina"
+                }
+            ],
+            "Kebbi": [
+                {
+                    "branch": "Kebbi II Branch",
+                    "branchcode":"214272019",
+                    "branchaddress": "Plot 20, Emir Haruna Road, Birnin Kebbi, Kebbi State."
+                }
+            ],
+            "Kogi": [
+                {
+                    "branch": "Ayingba Branch",
+                    "branchcode":"214282245",
+                    "branchaddress": "Along Idah-Ajaokuta Road, Opposite General Post Office, Anyigba. Kogi State"
+                },
+                {
+                    "branch": "Lokoja 1 Branch",
+                    "branchcode":"214281880",
+                    "branchaddress": "16 Aliyu Obaje Road, Okene/Kabba Road, Opposite Stella Obasanjo Library, Lokoja"
+                }
+            ],
+            "Kwara": [
+                {
+                    "branch": "Abdulazeez Attah, Ilorin Branch",
+                    "branchcode":"214141535",
+                    "branchaddress": "120, Abdulazeez Atta Rd, Surulere, Ilorin, Kwara State"
+                },
+                {
+                    "branch": "Ibrahim Taiwo Rd Branch",
+                    "branchcode":"214141519",
+                    "branchaddress": "79b,Ibrahim Taiwo Road, Ilorin, Kwara State"
+                },
+                {
+                    "branch": "Murtala Mohammed Road  Branch",
+                    "branchcode":"214140015",
+                    "branchaddress": "33, Murtala Mohammed Way, Ilorin, Kwara Sate"
+                }
+            ],
+            "Lagos": [
+                {
+                    "branch": "Adeniran Ogunsanya Branch",
+                    "branchcode":"214150377",
+                    "branchaddress": "33 Adeniran Ogunsanya Street, Surulere, Lagos"
+                },
+                {
+                    "branch": "Adeola Hopewell Branch",
+                    "branchcode":"214150461",
+                    "branchaddress": "38, Adeola Hopewell Street, Victoria Island, Lagos"
+                },
+                {
+                    "branch": "Adeola Odeku Branch",
+                    "branchcode":"214150076",
+                    "branchaddress": "11b, Adeola  Odeku Street,Victoria Island, Lagos"
+                },
+                {
+                    "branch": "Adetokunbo Ademola Branch",
+                    "branchcode":"214150555",
+                    "branchaddress": "Plot 719a Adetokunbo Ademola Street, Victoria Island, Lagos"
+                },
+                {
+                    "branch": "Agege Branch",
+                    "branchcode":"214150487",
+                    "branchaddress": "Old Abeokuta  Express Road, Oko-Oba, Agege, Lagos"
+                },
+                {
+                    "branch": "Airport Rd Branch",
+                    "branchcode":"214150306",
+                    "branchaddress": "23 /25 Muritala Muhammemed Int'l Airport Road, Ikeja, Lagos"
+                },
+                {
+                    "branch": "Ajah Branch",
+                    "branchcode":"214150131",
+                    "branchaddress": "Km 23, Berger Bus Stop, Lekki-Epe Expressway Ajah.Lagos"
+                },
+                {
+                    "branch": "Akowonjo Branch",
+                    "branchcode":"214150351",
+                    "branchaddress": "Primateck Plaza, Shasha Round-About Akowonjo, Lagos"
+                },
+                {
+                    "branch": "Alaba I Branch",
+                    "branchcode":"214150063",
+                    "branchaddress": "Obosi  Plaza, A-Line, Alaba Intl Mkt.Alaba."
+                },
+                {
+                    "branch": "Alaba Ii Branch",
+                    "branchcode":"214151635",
+                    "branchaddress": "S Line, Old Garage, Alaba Electrical Section, Alaba International Market, Lagos"
+                },
+                {
+                    "branch": "Allen I Branch",
+                    "branchcode":"214150173",
+                    "branchaddress": "36 Allen Avenue, Ikeja, Lagos"
+                },
+                {
+                    "branch": "Amuwo-Odofin Branch",
+                    "branchcode":"214152825",
+                    "branchaddress": "Plot 123 Amuwo Odofin Road, Festac Link Bridge, Amuwo-Odofin, Lagos"
+                },
+                {
+                    "branch": "Apapa I Branch",
+                    "branchcode":"214150034",
+                    "branchaddress": "28 Creek Road, Apapa, Lagos"
+                },
+                {
+                    "branch": "Apapa II Branch",
+                    "branchcode":"214150267",
+                    "branchaddress": "16 Warehouse Road Apapa, Lagos"
+                },
+                {
+                    "branch": "Aspamda II Branch",
+                    "branchcode":"214150584",
+                    "branchaddress": "Olusegun Obasanjo Hall, Aspamda, Trade Fair Complex, Badagry Expressway, Lagos."
+                },
+                {
+                    "branch": "Awolowo I Branch",
+                    "branchcode":"214150089",
+                    "branchaddress": "68  Awolowo  Road,  Ikoyi, Lagos"
+                },
+                {
+                    "branch": "Broad Street Branch",
+                    "branchcode":"214150186",
+                    "branchaddress": "Banuso House, 88/89, Broad Street, Lagos"
+                },
+                {
+                    "branch": "Davies Street Branch",
+                    "branchcode":"214151460",
+                    "branchaddress": "1 Davies Street, Untl Building Off Marina, Lagos Island, Lagos"
+                },
+                {
+                    "branch": "Festac Branch",
+                    "branchcode":"214151745",
+                    "branchaddress": "Plot 1572, 4th Avenue Festac Town, Lagos"
+                },
+                {
+                    "branch": "Gbagada Branch",
+                    "branchcode":"214152838",
+                    "branchaddress": "42, Diya Street, Ifako Gbagada, Lagos"
+                },
+                {
+                    "branch": "Head Office Branch",
+                    "branchcode":"214150018",
+                    "branchaddress": "Primrose Tower, 17a, Tinubu St., Lagosada, Lagos"
+                },
+                {
+                    "branch": "Iddo Branch",
+                    "branchcode":"214151693",
+                    "branchaddress": "Leventis Building, 2-4 Iddo Road, Iddo Lagos"
+                },
+                {
+                    "branch": "Idimu Branch",
+                    "branchcode":"214150526",
+                    "branchaddress": "218 Egbeda-Idimu Road, Idimu, Lagos"
+                },
+                {
+                    "branch": "Idumagbo Branch",
+                    "branchcode":"214150050",
+                    "branchaddress": "Daddy Doherty House, 34 Idumagbo Avenue, Lagos Island"
+                },
+                {
+                    "branch": "Idumota Branch",
+                    "branchcode":"214150160",
+                    "branchaddress": "22 Idoluwo Street, Idumota, Lagos Island"
+                },
+                {
+                    "branch": "Ikeja Gra Branch",
+                    "branchcode":"214150571",
+                    "branchaddress": "48 Isaac John Street, Ikeja Gra, Lagos"
+                },
+                {
+                    "branch": "Ikeja Local Airport Branch",
+                    "branchcode":"214151583",
+                    "branchaddress": "Mma Zulu Terminal, Domestic Airport, Ikeja, Lagos"
+                },
+                {
+                    "branch": "Ikorodu Branch",
+                    "branchcode":"214150283",
+                    "branchaddress": "7 Lagos  Road, Ikorodu, Lagos"
+                },
+                {
+                    "branch": "Ilupeju Branch",
+                    "branchcode":"214151813",
+                    "branchaddress": "25b Ilupeju Byepass, Off Coker Junction, Ilupeju, Lagos"
+                },
+                {
+                    "branch": "Iponri Branch",
+                    "branchcode":"214150092",
+                    "branchaddress": "Shop 529-531, Iponri Shopping Complex, Iponri, Surulere, Lagos State"
+                },
+                {
+                    "branch": "Joseph Street Branch",
+                    "branchcode":"214151677",
+                    "branchaddress": "2 Joseph Street, Off Marina, Lagos Island, Lagos"
+                },
+                {
+                    "branch": "Ketu Branch",
+                    "branchcode":"214150458",
+                    "branchaddress": "545/547 Ketu, Ikorodu Road, Lagos"
+                },
+                {
+                    "branch": "Kingsway Road Branch",
+                    "branchcode":null,
+                    "branchaddress": "13 Afred Rewane Street, Kingsway Road, Ikoyi, Lagos"
+                },
+                {
+                    "branch": "Ladipo Branch",
+                    "branchcode":"214151651",
+                    "branchaddress": "122/124 Ladipo Street, Beside Ap Filling Station, Ladipo, Mushin Lagos"
+                },
+                {
+                    "branch": "Lekki  Branch",
+                    "branchcode":"214150416",
+                    "branchaddress": "63/64 Igbokushu Village, Opposite Jakande Estate Lekki"
+                },
+                {
+                    "branch": "Lekki Admiralty Way Branch",
+                    "branchcode":"214150416",
+                    "branchaddress": "Plot B, Block E12e, Admiralty Way, Lekki, Lagos"
+                },
+                {
+                    "branch": "Lekki Chevron Branch",
+                    "branchcode":"214151758",
+                    "branchaddress": "Km 18,Lekki-Epe Expressway, Before Chevron Roundabout, Lekki, Lagos"
+                },
+                {
+                    "branch": "Macarthy Branch",
+                    "branchcode":"214150500",
+                    "branchaddress": "12  Macarthy Street, Onikan, Lagos"
+                },
+                {
+                    "branch": "Marina Branch",
+                    "branchcode":"214150568",
+                    "branchaddress": "44 Marina Street, Lagos Island, Lagos"
+                },
+                {
+                    "branch": "Matori Branch",
+                    "branchcode":"214150393",
+                    "branchaddress": "91 Ladipo Street, Matori, Lagos"
+                },
+                {
+                    "branch": "Mobolaji Bank Anthony Branch",
+                    "branchcode":"214151570",
+                    "branchaddress": "18/20 Mobolaji Bank Anthony Way, Ikeja, Lagos"
+                },
+                {
+                    "branch": "Motorways Branch",
+                    "branchcode":"214150212",
+                    "branchaddress": "M1 Point Motorways Complex, Ikeja, Lagos"
+                },
+                {
+                    "branch": "Mushin Branch",
+                    "branchcode":"214150364",
+                    "branchaddress": "253 Agege Motor Road, Mushin,  Lagos"
+                },
+                {
+                    "branch": "Oba Akran I Branch",
+                    "branchcode":"214150047",
+                    "branchaddress": "29 Oba Akran Avenue, Ikeja, Lagos"
+                },
+                {
+                    "branch": "Ogba Branch",
+                    "branchcode":"214150335",
+                    "branchaddress": "23 Ogba Ijaiye Road, Opp Waec Office Ogba, Lagos"
+                },
+                {
+                    "branch": "Ogudu Branch",
+                    "branchcode":"214151761",
+                    "branchaddress": "Plot 111 Ogudu Gra,Ojota Road, Ogudu, Lagos"
+                },
+                {
+                    "branch": "Ojo Branch",
+                    "branchcode":"214150296",
+                    "branchaddress": "148a Olojo Drive, Ojo, Lagos"
+                },
+                {
+                    "branch": "Oke-Arin Branch",
+                    "branchcode":"214150348",
+                    "branchaddress": "11 Ijaiye Street, Oke Arin, Lagos"
+                },
+                {
+                    "branch": "Okota Branch",
+                    "branchcode":"214150429",
+                    "branchaddress": "117 Okota Road, Okota, Isolo, Lagos"
+                },
+                {
+                    "branch": "Onipan Branch",
+                    "branchcode":"214151457",
+                    "branchaddress": "178, Ikorodu Road, Onipanu, Lagos"
+                },
+                {
+                    "branch": "Oniru Branch",
+                    "branchcode":"214150380",
+                    "branchaddress": "The Hive Mall, Plot 16, T.F. Kuboye Road, Off New Market Road, Oniru"
+                },
+                {
+                    "branch": "Oregun Branch",
+                    "branchcode":"214151648",
+                    "branchaddress": "80 Kudirat Abiola Way, Oregun, Ikeja, Lagos"
+                },
+                {
+                    "branch": "Orile Coker Branch",
+                    "branchcode":"214150490",
+                    "branchaddress": "Block 11, Suite 3-8, Agric Market, Odun Ade Bus Stop, Orile Coker, Lagos"
+                },
+                {
+                    "branch": "Oroyinyin Branch",
+                    "branchcode":"214151619",
+                    "branchaddress": "12 Oroyinyin Street, Idumota, Lagos Island, Lagos"
+                },
+                {
+                    "branch": "Osolo Way Branch",
+                    "branchcode":"214151525",
+                    "branchaddress": "33 Osolo Way, Ajao Estate, Lagos"
+                },
+                {
+                    "branch": "Randle Rd Branch",
+                    "branchcode":"214151525",
+                    "branchaddress": "Slok House, 10 Randle Road, Apapa, Lagos"
+                },
+                {
+                    "branch": "Sanusi Fafunwa Branch",
+                    "branchcode":"214150241",
+                    "branchaddress": "Founder's Place,2 Sanusi Fafunwa Street Victoria Island, Lagos"
+                },
+                {
+                    "branch": "Trade Fair II Branch",
+                    "branchcode":"214151473",
+                    "branchaddress": "Above Plaza, Bba Trade Fair Complex, Lagos"
+                },
+                {
+                    "branch": "Wharf Rd Branch",
+                    "branchcode":"214151473",
+                    "branchaddress": "Eleganza Plaza, No. 1 Wharf Road, Apapa,  Lagos"
+                },
+                {
+                    "branch": "Yaba Branch",
+                    "branchcode":"214150115",
+                    "branchaddress": "43 Ojuelegba Road, Surulere, Lagos"
+                }
+            ],
+            "Nassarawa": [
+                {
+                    "branch": "Lafia II Branch",
+                    "branchcode":"214050037",
+                    "branchaddress": "43, Sani Abacha Way (Jos Road), Lafia, Nassarawa"
+                },
+                {
+                    "branch": "Sabon Tasha Keffi Branch",
+                    "branchcode":"214362217",
+                    "branchaddress": "75, Audu Zanga Way, Tsohon Tasha, Keffi, Nassarawa State"
+                }
+            ],
+            "Niger":[
+                {
+                    "branch": "Minna 1 Branch",
+                    "branchcode":"214120011",
+                    "branchaddress": "3, Paiko Road, Opp Cbn, Minna, Niger"
+                },
+                {
+                    "branch": "Sabon Tasha Keffi Branch",
+                    "branchcode":"214362217",
+                    "branchaddress": "75, Audu Zanga Way, Tsohon Tasha, Keffi, Nassarawa State"
+                }
+            ],
+            "Ogun":[
+                {
+                    "branch": "Abeokuta Branch",
+                    "branchcode":"214170027",
+                    "branchaddress": "21, Lalubu Street Oke-Ilewo Abeokuta, Ogun"
+                },
+                {
+                    "branch": "Agbara Branch",
+                    "branchcode":"214150474",
+                    "branchaddress": "1, Ilaro Street, Agbara Industrial Estate, Agbara, Ogun"
+                },
+                {
+                    "branch": "Ago-Iwoye",
+                    "branchcode":"214170043",
+                    "branchaddress": "Permanent Site, Olabisi Onabanjo University, Ago-Iwoye"
+                },
+                {
+                    "branch": "Akute Branch",
+                    "branchcode":"214150270",
+                    "branchaddress": "54 Ojodu-Akute  Road, Alagbole Bus Stop, Akute, Lagos"
+                },
+                {
+                    "branch": "Alagbado Branch",
+                    "branchcode":"214150209",
+                    "branchaddress": "757 Lagos Abeokuta Exp Way, Salolo Alagbole, Ogun"
+                },
+                {
+                    "branch": "Ijebu-Ode I Branch",
+                    "branchcode":"214170014",
+                    "branchaddress": "168, Folagbade Street, Ijebu-Ode, Ogun State"
+                },
+                {
+                    "branch": "Ijebu-Ode II Branch",
+                    "branchcode":"214170069",
+                    "branchaddress": "52, Ejirin Road, Imepe, Ijebu-Ode, Ogun"
+                },
+                {
+                    "branch": "Otta Branch",
+                    "branchcode":"214150102",
+                    "branchaddress": "57idi-Iroko Road, Sango Ota, Ogun State"
+                },
+                {
+                    "branch": "Rccg Camp Branch",
+                    "branchcode":null,
+                    "branchaddress": "Km 48, Lagos-Ibadan Expressway, Redeem Camp, Ogun"
+                },
+                {
+                    "branch": "Sagamu Branch",
+                    "branchcode":"214170030",
+                    "branchaddress": "141, Akarigbo Street, Sagamu, Ogun State."
+                }
+            ],
+            "Ondo":[
+                {
+                    "branch": "Akure 1 Branch",
+                    "branchcode":"214180020",
+                    "branchaddress": "5, Bishop Fagun Road, Ado-Owo Road, Akure, Ondo"
+                },
+                {
+                    "branch": "Akure II Branch",
+                    "branchcode":"214182798",
+                    "branchaddress": "1 Olukayode House, Oshinle, Akure, Ondo State"
+                },
+                {
+                    "branch": "Igbokoda Branch",
+                    "branchcode":"214180062",
+                    "branchaddress": "Plot 1e, 5b Gra Igbokoda, Ilaje, Ondo"
+                },
+                {
+                    "branch": "Ondo Branch",
+                    "branchcode":"214180017",
+                    "branchaddress": "1 Brigadier Ademulekun Road, Ondo Town, Ondo"
+                }
+            ],
+            "Osun":[
+                {
+                    "branch": "ILESHA BRANCH",
+                    "branchcode":"214190052",
+                    "branchaddress": "F16, EREGURU STREET, ILESHA, OSUN STATE"
+                },
+                {
+                    "branch": "OSOGBO I BRANCH",
+                    "branchcode":"214190036",
+                    "branchaddress": "KM 3, GBONGAN/IBADAN RD, OSHOGBO, OSUN"
+                }
+            ],
+            "Oyo":[
+                {
+                    "branch": "Agbeni Branch",
+                    "branchcode":"214191718",
+                    "branchaddress": "57 Agbeni Market Road, Agbeni, Ibadan, Oyo State"
+                },
+                {
+                    "branch": "Agbowo Branch",
+                    "branchcode":"214191721",
+                    "branchaddress": "30, Oyo Road, Opposite U.I Post Office, Ibadan, Oyo State"
+                },
+                {
+                    "branch": "Bodija Branch",
+                    "branchcode":"214190023",
+                    "branchaddress": "Plot 3, University Of Ibadan/Secreteriat Road, Bodija Extension, Bodija, Ibadan"
+                },
+                {
+                    "branch": "Challenge Branch",
+                    "branchcode":"214191488",
+                    "branchaddress": "10, Moshood Abiola Way, Challenge, Ibadan, Oyo State"
+                },
+                {
+                    "branch": "Dugbe Branch",
+                    "branchcode":"214190010",
+                    "branchaddress": "23/25 Lebanon Street, Dugbe, Ibadan, Oyo"
+                },
+                {
+                    "branch": "Iwo Road Branch",
+                    "branchcode":"214191776",
+                    "branchaddress": "55 Iwo Road, Ibadan, Oyo State"
+                },
+                {
+                    "branch": "Ojoo Branch",
+                    "branchcode":"214190081",
+                    "branchaddress": "1c Sabo Garage, Ojoo/Ibadan Express Road, Ojoo, Ibadan, Oyo State"
+                },
+                {
+                    "branch": "Uch Branch",
+                    "branchcode":"214190049",
+                    "branchaddress": "Opposite Total Filling Station, Uch, Ibadan"
+                }
+            ],
+            "Plateau":[
+                {
+                    "branch": "Beach Road Jos Branch",
+                    "branchcode":"214201860",
+                    "branchaddress": "No 4 Beach Road, Opposite Plateau State Board Of Internal Revenue Office, Jos"
+                },
+                {
+                    "branch": "British American Junction Jos",
+                    "branchcode":"214200010",
+                    "branchaddress": "British American Tobacco Junction, Bukuru Bypass, Jos, Plateau State"
+                },
+                {
+                    "branch": "Murtala Mohammed Way Jos Branch",
+                    "branchcode":"214202034",
+                    "branchaddress": "7, Murtala Mohammed  Way, Jos, Plateau State"
+                }
+            ],
+            "Rivers": [
+                {
+                    "branch": "Abuloma Branch",
+                    "branchcode":"214210084",
+                    "branchaddress": "46a  Abuloma Rd, Port Harcourt"
+                },
+                {
+                    "branch": "Aggrey Branch",
+                    "branchcode":"214210097",
+                    "branchaddress": "81 Agrrey Road, Port Harcourt"
+                },
+                {
+                    "branch": "Azikiwe Branch",
+                    "branchcode":"214212529",
+                    "branchaddress": "81 Agrrey Road, Port Harcourt"
+                },
+                {
+                    "branch": "Bori Branch",
+                    "branchcode":"214212613",
+                    "branchaddress": "26 Zaakpon/Poly Road, Bori, Port Harcourt, Rivers State"
+                },
+                {
+                    "branch": "Garrison Branch",
+                    "branchcode":"214210026",
+                    "branchaddress": "85 Aba Road, By Garrison Junction, Port Harcourt"
+                },
+                {
+                    "branch": "Ikwerre I Branch",
+                    "branchcode":"214210068",
+                    "branchaddress": "19 Ikwerre Road, Mile 1, Diobu, Port Harcourt"
+                },
+                {
+                    "branch": "Ikwerre II Branch",
+                    "branchcode":"214212396",
+                    "branchaddress": "457 Ikwerre Road,Port Harcourt Rivers State"
+                },
+                {
+                    "branch": "Olu Obasanjo Branch",
+                    "branchcode":"214212558",
+                    "branchaddress": "80 Olu Obasanjo Road, Port Harcourt, Rivers State"
+                },
+                {
+                    "branch": "Oyigbo Branch",
+                    "branchcode":"214210071",
+                    "branchaddress": "290 Old Aba Road, Port Harcourt-Aba Road, Oyigbo, Rivers State"
+                },
+                {
+                    "branch": "Ph Aba Road 2",
+                    "branchcode":"214212561",
+                    "branchaddress": "9 Port Harcourt-Aba Expressway,  Port Harcourt, River State"
+                },
+                {
+                    "branch": "Ph Main Branch",
+                    "branchcode":"214210013",
+                    "branchaddress": "Plot 282a Ph / Aba Exp"
+                },
+                {
+                    "branch": "Rumuokoro Branch",
+                    "branchcode":"214212752",
+                    "branchaddress": "642 Ikwerre Road, Rumuokoro, Port Harcourt, Rivers State"
+                },
+                {
+                    "branch": "Rumuomasi Branch",
+                    "branchcode":"214212532",
+                    "branchaddress": "2/3 Rumuokoro Street, Rumuomasi, Port Harcourt, Rivers State"
+                },
+                {
+                    "branch": "Trans Amadi II Branch",
+                    "branchcode":"214212684",
+                    "branchaddress": "117 Trans Amadi Industrial Layout, Port Harcourt"
+                },
+                {
+                    "branch": "Trans Amadi III Branch",
+                    "branchcode":"214210107",
+                    "branchaddress": "Plot 466/467, Trans Amadi Industrial L/Out, Port Harcourt, Rivers State"
+                }
+            ],
+            "Sokoto": [
+                {
+                    "branch": "Sokoto Branch",
+                    "branchcode":"214220032",
+                    "branchaddress": "27 Sani Abacha Way(Old Kano Road), Sokoto"
+                }
+            ],
+            "Taraba":[
+                {
+                    "branch": "Jalingo Branch",
+                    "branchcode":"214090042",
+                    "branchaddress": "73 Hammaruwa  Way, Jalingo, Taraba"
+                }
+            ],
+            "Yobe": [
+                {
+                    "branch": "Damaturu 1 Branch",
+                    "branchcode":"214060027",
+                    "branchaddress": "29/32 Bukar Abba Ibrahim Way, Damaturu, Yobe"
+                }
+            ],
+            "Zamfara": [
+                {
+                    "branch": "Gusau 1 Branch",
+                    "branchcode":"214220029",
+                    "branchaddress": "Plot 103 Gusau-Sani Abacha Way, Gusau, Zamfara"
+                }
+            ]
+        }
+    },
+    {
+        "bank": "GUARANTY TRUST BANK PLC",
+        "code": "058",
+        "abb": "GBT",
+        "ussd": "*737#",
+        "state": {
+            "Abia":[
+                {
+                    "branch": "ABA, ABA-OWERRI RD",
+                    "branchcode":"058-235212",
+                    "branchaddress": "28, ABA-OWERRI ROAD, ABA, ABIA STATE"
+                },
+                {
+                    "branch": "ABA, PORT HARCOURT ROAD",
+                    "branchcode":"058-235225",
+                    "branchaddress": "NO 4-6 PORT HARCOURT ROAD, ABA, ABIA STATE"
+                },
+                {
+                    "branch": "UMUAHIA",
+                    "branchcode":"058-237016",
+                    "branchaddress": "6 ABA ROAD, OPP. FMC ,UMUAHIA ,ABIA STATE"
+                }
+            ],
+            "Adamawa": [
+                {
+                    "branch": "MUBI",
+                    "branchcode":"058-098213",
+                    "branchaddress": "60 AHMADU BELLO WAY, YELWA SABO,MUBI ,ADAMAWA STATE"
+                },
+                {
+                    "branch": "YOLA",
+                    "branchcode":"058-093616",
+                    "branchaddress": "PLOT 11 GALADIMA AMINU WAY, JIMETA - YOLA ADAMAWA STATE"
+                },
+                {
+                    "branch": "YOLA",
+                    "branchcode":"058-093629",
+                    "branchaddress": "AMERICAN UNIVERSITY OF NIGERIA YOLA, ADAMAWA STATE"
+                }
+            ],
+            "Akwa Ibom": [
+                {
+                    "branch": "UYO",
+                    "branchcode":"058-015513",
+                    "branchaddress": "26, AKA ROAD ,UYO,AKWA IBOM STATE"
+                }
+            ],
+            "Anambra": [
+                {
+                    "branch": "AWKA",
+                    "branchcode":"058-027116",
+                    "branchaddress": "NO 96 NNAMDI AZIKIWE AVENUE, AWKA, ANAMBRA STATE"
+                },
+                {
+                    "branch": "NNEWI",
+                    "branchcode":"058-025817",
+                    "branchaddress": " 4, EDO EZENNEWI STREET, NNEWI ,ANAMBRA STATE"
+                },
+                {
+                    "branch": "ONITSHA",
+                    "branchcode":"058-025118",
+                    "branchaddress": "4,PORT-HARCOURT ROAD NIGER BRIDGE ONITSHA,ANAMBRA STATE"
+                },
+                {
+                    "branch": "ONITSHA, NEW MARKET",
+                    "branchcode":"058-025121",
+                    "branchaddress": "NO 15, NEW MARKET ROAD, ONITSHA ,ANAMBRA STATE"
+                },
+                {
+                    "branch": "BRIDGE HEAD",
+                    "branchcode":"058-025134",
+                    "branchaddress": "4, PORT HARCOURT ROAD ONITSHA, NIGER BRIDGE"
+                },
+                {
+                    "branch": "OLD CEMENTRY ROAD",
+                    "branchcode":"058-025118",
+                    "branchaddress": "2 OLD CEMENTARY ROAD, ONITSHA"
+                },
+                {
+                    "branch": "NNAMDI AZIKWE UNIVERSITY",
+                    "branchcode":"058-027129",
+                    "branchaddress": "NNAMDI AZIKWE UNIVERSTIY CAMPUS AKWA, ANAMBRA STATE"
+                },
+                {
+                    "branch": "NNAMDI AZIKWE UNIVERSITY, AWKA",
+                    "branchcode":"058-017126",
+                    "branchaddress": "NNAMDI AZIKWE UNIVERSITY, AWKA"
+                },
+                {
+                    "branch": "ONITSHA III - BRIDGE HEAD",
+                    "branchcode":"058-025139",
+                    "branchaddress": "ONITSHA III - BRIDGE HEAD"
+                }
+            ],
+            "Bauchi":[
+                {
+                    "branch": "BAUCHI",
+                    "branchcode":"058-036013",
+                    "branchaddress": " NICON BUILDING, 26A COMMERCIAL BANK ROAD, BAUCHI STATE"
+                },
+                {
+                    "branch": "BAUCHI, AZARE",
+                    "branchcode":"058-036026",
+                    "branchaddress": "NO.1 JAMA'ARE ROAD, (ALONG KANO - MAIDUGURI ROAD) , AZARE, KATAGUM LGA, BAUCHI STATE"
+                }
+            ],
+            "Bayelsa":[
+                {
+                    "branch": "YENAGOA",
+                    "branchcode":"058-325410",
+                    "branchaddress": "BARRACUDA SQUARE EKKIEPIE AREA, YENAGOA/MBIAMA ROAD,YENAGOA,BAYELSA STATE"
+                }
+            ],
+            "Benue":[
+                {
+                    "branch": "MAKURDI",
+                    "branchcode":"058-053818",
+                    "branchaddress": "41A NEW BRIDGE ROAD, MAKURDI, BENUE STATE"
+                }
+            ],
+            "Borno":[
+                {
+                    "branch": "MAIDUGURI",
+                    "branchcode":"058-063413",
+                    "branchaddress": "11, BAGA ROAD, BAGA, MAIDUGURI,BORNO STATE."
+                },
+                {
+                    "branch": "MAIDUGURI, MONDAY MARKET ROAD",
+                    "branchcode":"058-063426",
+                    "branchaddress": "MONDAY MARKET ROAD, MAIDUGURI, BORNO STATE"
+                },
+                {
+                    "branch": "UMTH,MAIDUGURI",
+                    "branchcode":"058-063433",
+                    "branchaddress": "UNIVERSITY OF MAIDUGURI TEACHING HOSPITAL,MAIDUGURI,BORNO STATE"
+                }
+            ],
+            "Cross River": [
+                {
+                    "branch": "CALABAR",
+                    "branchcode":"058-075618",
+                    "branchaddress": "CROSS TRADE (FORMER LEVENTIS) BUILDING, CALABAR ROAD, CROSS RIVER STATE"
+                },
+                {
+                    "branch": "IKOM",
+                    "branchcode":"058-077412",
+                    "branchaddress": "18 OGOJA ROAD, IKOM , CROSS RIVER STATE"
+                }
+            ],
+            "Delta": [
+                {
+                    "branch": "AIRPORT ROAD, WARRI",
+                    "branchcode":"058-244151",
+                    "branchaddress": "7B AIRPORT ROAD,WARRI,DELTA."
+                },
+                {
+                    "branch": "ASABA",
+                    "branchcode":"058-244135",
+                    "branchaddress": "300, NNEBISI ROAD, ASABA, DELTA STATE"
+                },
+                {
+                    "branch": "SAPELE",
+                    "branchcode":"058-247310",
+                    "branchaddress": "80 SAPELE WARRI ROAD, SAPELE , DELTA STATE"
+                },
+                {
+                    "branch": "WARRI",
+                    "branchcode":"058-244119",
+                    "branchaddress": "85, WARRI/EFFURUN ROAD,EFFURUN,DELTA STATE."
+                },
+                {
+                    "branch": "DELSU ABRAKA",
+                    "branchcode":"058-094178",
+                    "branchaddress": "DELTA STATE UNIVERSITY, CAMPUS 3 ABRAKA"
+                }
+            ],
+            "Ebonyi": [
+                {
+                    "branch": "ABAKALIKI",
+                    "branchcode":"058-335918",
+                    "branchaddress": "35A OGOJA ROAD, ABAKALIKI, EBONYI STATE"
+                }
+            ],
+            "Edo":[
+                {
+                    "branch": "AUCHI",
+                    "branchcode":"058-447615",
+                    "branchaddress": "33 POLY RD, AUCHI, EDO STATE"
+                },
+                {
+                    "branch": "BENIN V - IKPOBA HILLS",
+                    "branchcode":"058-044254",
+                    "branchaddress": "NO. 62 AGBOR ROAD, IKPOBA HILLS, BENIN CITY, EDO STATE"
+                },
+                {
+                    "branch": "BENIN, AKPAKPAVA",
+                    "branchcode":"058-044238",
+                    "branchaddress": "43 AKPAKPAVA ROAD, BENIN CITY ,EDO STATE"
+                },
+                {
+                    "branch": "BENIN, EKENWAN RD",
+                    "branchcode":"058-044241",
+                    "branchaddress": "90, EKENWA ROAD BRANCH, OPPOSITE GOD CARE HOSPITAL,BENIN CITY ,EDO STATE"
+                },
+                {
+                    "branch": "BENIN, SAPELE ROAD",
+                    "branchcode":"058-044128",
+                    "branchaddress": "35B SAPELE ROAD, BENIN CITY, EDO STATE"
+                },
+                {
+                    "branch": "BENIN, USELU",
+                    "branchcode":"058-044225",
+                    "branchaddress": "158 NEW LAGOS ROAD ,BENIN CITY ,EDO STATE"
+                },
+                {
+                    "branch": "BENIN",
+                    "branchcode":"058-044267",
+                    "branchaddress": "UNIVERSITY OF BENIN"
+                },
+                {
+                    "branch": "EKPOMA",
+                    "branchcode":"058-244274",
+                    "branchaddress": "2 IHUMUDUMU RD, EGHARE EKPOMA"
+                }
+            ],
+            "Ekiti":[
+                {
+                    "branch": "ADO-EKITI",
+                    "branchcode":"058-184619",
+                    "branchaddress": "PLOT 21, NEW EYIN ROAD, ADO SECRETARIAT, ADO EKITI ,EKITI STATE"
+                },
+                {
+                    "branch": "EKSU",
+                    "branchcode":"058-184444",
+                    "branchaddress": "EKITI STATE UNIVERSITY CAMPUS, ADO EKITI"
+                },
+                {
+                    "branch": "EKITI",
+                    "branchcode":"058-034442",
+                    "branchaddress": "FACULTY OF EDUCATION, EKITI STATE UNIVERSITY, ADO EKITI, EKITI, STATE"
+                }
+            ],
+            "Enugu":[
+                {
+                    "branch": "ENUGU, OGUI ROAD",
+                    "branchcode":"058-255315",
+                    "branchaddress": "1, OGUI ROAD, ENUGU ,ENUGU STATE"
+                },
+                {
+                    "branch": "ENUGU, RANGERS",
+                    "branchcode":"058-255328",
+                    "branchaddress": "PLOT 381 RANGERS AVENUE INDEPENDECE LAYOUT ,ENUGU ,ENUGU STATE"
+                },
+                {
+                    "branch": "NSUKKA",
+                    "branchcode":"058-257517",
+                    "branchaddress": "16 UNIVERSTITY ROAD, NSUKKA ,ENUGU STATE"
+                }
+            ],
+            "FCT":[
+                {
+                    "branch": "APO",
+                    "branchcode":"058-083930",
+                    "branchaddress": "SAMUEL JERETON MARIERE ROAD, OPPOSITE AP PETROL STATION, GUDU DISTRICT, ABUJA"
+                },
+                {
+                    "branch": "JABI",
+                    "branchcode":"058-083943",
+                    "branchaddress": "PLOT 818, JABI DISTRICT, JABI, ABUJA"
+                },
+                {
+                    "branch": "ABUJA , WUSE II",
+                    "branchcode":"058-083228",
+                    "branchaddress": "PLOT 211 ADETOKUNBO ADEMOLA CRESCENTCADASTRAL ZONEWUSE II, ABUJA ,WUSE 2 ,F.C.T"
+                },
+                {
+                    "branch": "ABUJA, AREA 11 GARKI",
+                    "branchcode":"058-083257",
+                    "branchaddress": "PLOT 1473 AHMADU BELLO WAY, GARKI ,F.C.T"
+                },
+                {
+                    "branch": "ABUJA, ADETOKUNBO ADEMOLA CRESCENT",
+                    "branchcode":"058-083299",
+                    "branchaddress": "PLOT 128 ADETOKUNBO ADEMOLA CRESCENT, WUSE 2, ABUJA ,F.C.T"
+                },
+                {
+                    "branch": "ABUJA, GARKI",
+                    "branchcode":"058-083215",
+                    "branchaddress": "PLOT 1072 J S TARKA/ FASKARI ST AREA 3 ,GARKI ,F.C.T"
+                },
+                {
+                    "branch": "ABUJA, GWAGWALADA",
+                    "branchcode":"058-083244",
+                    "branchaddress": "PLOT 598 GWAGWALADA EXPANSION LAYOUT, GWAGWALADA ,F.C.T"
+                },
+                {
+                    "branch": "ABUJA, KUBWA",
+                    "branchcode":"058-083273",
+                    "branchaddress": "KUBWA COMM. DISTRICT, GADO NASKO ROAD, KUBWA, ABUJA, FCT"
+                },
+                {
+                    "branch": "ABUJA, MAITAMA",
+                    "branchcode":"058-083231",
+                    "branchaddress": "ETF HOUSE, PLOT 433 ZAMBEZI CRESCENT, MAITAMA ,F.C.T"
+                },
+                {
+                    "branch": "ABUJA, NATIONAL ASSEMBLY",
+                    "branchcode":"058-083260",
+                    "branchaddress": "2452 NASS COMPLEX, 3 ARMS ZONE,MAITAMA ,F.C.T"
+                },
+                {
+                    "branch": "ABUJA, ULO PLAZA,WUSE ZONE 5",
+                    "branchcode":"058-083309",
+                    "branchaddress": "ULO PLAZA, PLOT 1953 CADASTRIAL ZONE A2 ,WUSE ZONE 5 ,F.C.T"
+                },
+                {
+                    "branch": "AMINU-KANO ABUJA",
+                    "branchcode":"058-083286",
+                    "branchaddress": "OMEGA PLAZA, PLOT 527, AMINU KANO CRESCENT, WUSE 2,F.C.T"
+                },
+                {
+                    "branch": "ASOKORO",
+                    "branchcode":"058-083956",
+                    "branchaddress": "NO 69. YAKUBU GOWON CRESCENT, ASOKORO ,F.C.T"
+                },
+                {
+                    "branch": "CADASTRAL ZONE,CBD ABUJA",
+                    "branchcode":"058-083969",
+                    "branchaddress": "PLT 771, CENRAL MOSQUE RD BY TOFA HOUSE, CBD,ABUJA"
+                },
+                {
+                    "branch": "KAURA NAMODA",
+                    "branchcode":"058-083972",
+                    "branchaddress": "PLOT 1088 CADASTRAL ZN A1,GARKI,ABUJA"
+                }
+            ],
+            "Gombe": [
+                {
+                    "branch": "GOMBE",
+                    "branchcode":"058-036217",
+                    "branchaddress": "PLOT 45, NEW COMMERCIAL AREA, GOMBE ,GOMBE STATE"
+                }
+            ],
+            "Imo": [
+                {
+                    "branch": "OKIGWE",
+                    "branchcode":"058-105931",
+                    "branchaddress": "C/R 8 GOVERNMENT LAYOUT, OKIGWE TOWNSHIP, OWERRI ROAD ,OKIGWE ,IMO STATE"
+                },
+                {
+                    "branch": "ORLU",
+                    "branchcode":"058-105928",
+                    "branchaddress": "PLOT 28, GOVERNMENT STATION LAYOUT, ORLU , IMO STATE"
+                },
+                {
+                    "branch": "OWERRI",
+                    "branchcode":"058-105711",
+                    "branchaddress": "PLOT 265, IKENEGBU LAYOUT,ALADINMA IKENGA ROAD, OWERRI, IMO STATE"
+                },
+                {
+                    "branch": "OWERRI 2",
+                    "branchcode":"058-105724",
+                    "branchaddress": "PLOT 17, PORT HARCOURT ROAD, OPP. OWERRI GIRLS HIGH SCHOOL, OWERRI, IMO STATE."
+                }
+            ],
+            "Jigawa":[
+                {
+                    "branch": "DUTSE",
+                    "branchcode":"058-266511",
+                    "branchaddress": "PLOT 727, KIYAWA ROAD DUTSE, JIGAWA STATE"
+                }
+            ],
+            "Kaduna": [
+                {
+                    "branch": "KADUNA",
+                    "branchcode":"058-113114",
+                    "branchaddress": "7/10, MURTALA MUHAMMED SQUARE,KADUNA. KADUNA STATE"
+                },
+                {
+                    "branch": "KADUNA 4 (BARNAWA)",
+                    "branchcode":"058-113143",
+                    "branchaddress": "BARNAWA STREET ,KADUNA ,KADUNA STATE"
+                },
+                {
+                    "branch": "KADUNA, KANO ROAD",
+                    "branchcode":"058-113130",
+                    "branchaddress": "AD5/AD6 KANO ROAD, OFF AHMADU BELLO WAY, KADUNA NORTH LGA ,KADUNA STATE"
+                },
+                {
+                    "branch": "KADUNA, NNAMDI AZIKWE",
+                    "branchcode":"058-113127",
+                    "branchaddress": "PLOT 9/11 NAMDI AZIKIWE EXPRESS WAY, KADUNA ,KADUNA STATE"
+                },
+                {
+                    "branch": "NDA KADUNA",
+                    "branchcode":"058-113156",
+                    "branchaddress": "NDA KADUNA"
+                }
+            ],
+            "Kano":[
+                {
+                    "branch": "KANO",
+                    "branchcode":"058-123010",
+                    "branchaddress": "145, MURTALA MUHAMMED WAY,KANO ,KANO STATE"
+                },
+                {
+                    "branch": "KANO, BACHIRAWA RD",
+                    "branchcode":"058-123049",
+                    "branchaddress": "BACHIRAWA, ALONG KATSINA ROAD, KANO, KANO STATE"
+                },
+                {
+                    "branch": "KANO, BELLO ROAD",
+                    "branchcode":"058-123036",
+                    "branchaddress": "PLOT 12E BELLO ROAD, WAJE DISTRICT, KANO ,KANO STATE"
+                },
+                {
+                    "branch": "KANO, WAPA",
+                    "branchcode":"058-123052",
+                    "branchaddress": "59, MURTALA MOHAMMED ROAD, WAPA, KANO STATE"
+                },
+                {
+                    "branch": "KANO, ZARIA RD",
+                    "branchcode":"058-123023",
+                    "branchaddress": "22 ZARIA RD,KANO , KANO STATE"
+                },
+                {
+                    "branch": "KANO",
+                    "branchcode":"058-123065",
+                    "branchaddress": "BAYERO UNIVERSITY, GWARZO RD"
+                }
+            ],
+            "Katsina":[
+                {
+                    "branch": "KATSINA",
+                    "branchcode":"058-133916",
+                    "branchaddress": "120 IBRAHIM BABAGINDA WAY, KATSINA, KATSINA STATE"
+                }
+            ],
+            "Kebbi":[
+                {
+                    "branch": "BIRNIN KEBBI",
+                    "branchcode":"058-276116",
+                    "branchaddress": "SULTAN ABUBAKAR RD, BIRNIN KEBBI ,KEBBI STATE"
+                }
+            ],
+            "Kogi":[
+                {
+                    "branch": "LOKOJA",
+                    "branchcode":"058-286410",
+                    "branchaddress": "PLOT 27, IBB WAY .LOKOJA ,KOGI STATE"
+                },
+                {
+                    "branch": "OBAJANA",
+                    "branchcode":"058-288311",
+                    "branchaddress": "DANGOTE CEMENT COMPLEX OBAJANA ,KOGI STATE"
+                },
+                {
+                    "branch": "OKENE",
+                    "branchcode":"058-288418",
+                    "branchaddress": "AUCHI –ABUJA EXPRESS WAY, OPP MR. BIGGS, OKENE, KOGI STATE"
+                }
+            ],
+            "Kwara":[
+                {
+                    "branch": "ILORIN",
+                    "branchcode":"058-144439",
+                    "branchaddress": "147 IBRAHIM TAIWO ROAD ILORIN"
+                },
+                {
+                    "branch": "ILORIN GRA",
+                    "branchcode":"058-144426",
+                    "branchaddress": "ALONG UMAR AUDI ROAD, GRA, ILORIN, SOUTH WEST ,KWARA STATE"
+                },
+                {
+                    "branch": "ILORIN, UNITY ROAD",
+                    "branchcode":"058-144413",
+                    "branchaddress": "1 WAHAB FOLAWIYO ROAD,(FORMER UNITY ROAD)ILORIN, KWARA STATE"
+                },
+                {
+                    "branch": "OFFA",
+                    "branchcode":"058-144714",
+                    "branchaddress": "83, OLOFFA WAY, OFFA ,KWARA STATE"
+                },
+                {
+                    "branch": "KWARA POLY",
+                    "branchcode":"058-144468",
+                    "branchaddress": "KWARA STATE POLYTECHNIC MAIN CAMPUS, OLD JEBBA ROAD, ILORIN"
+                },
+                {
+                    "branch": "UNILORIN",
+                    "branchcode":"058-144455",
+                    "branchaddress": "UNIVERSITY OF ILORIN CAMPUS, KWARA STATE"
+                }
+            ],
+            "Lagos":[
+                {
+                    "branch": "ABULE EGBA",
+                    "branchcode":"058-152489",
+                    "branchaddress": "402, ABEOKUTA EXPRESS WAY ABULE EGBA, LAGOS STATE"
+                },
+                {
+                    "branch": "ADENIYI JONES",
+                    "branchcode":"058-152434",
+                    "branchaddress": "31A ADENIYI JONES AVENUE ,IKEJA ,LAGOS STATE"
+                },
+                {
+                    "branch": "ADEOLA ODEKU",
+                    "branchcode":"058-152094",
+                    "branchaddress": "56A, ADEOLU ODEKU STREET, VICTORIA ISLAND ,LAGOS STATE"
+                },
+                {
+                    "branch": "ADETOKUNBO ADEMOLA",
+                    "branchcode":"058-152146",
+                    "branchaddress": "PLOT 714 ADETOKUNBO ADEMOLA ST, VICTORIA ISLAND ,LAGOS STATE"
+                },
+                {
+                    "branch": "AJAH",
+                    "branchcode":"058-152272",
+                    "branchaddress": "KM 22 LEKKI-EPE EXPRESSWAY ,AJAH ,LAGOS STATE"
+                },
+                {
+                    "branch": "AJOSE ADEOGUN",
+                    "branchcode":"058-152502",
+                    "branchaddress": "279 AJOSE ADEOGUN STREET ,VICTORIA ISLAND ,LAGOS STATE"
+                },
+                {
+                    "branch": "AKIN ADESOLA",
+                    "branchcode":"058-152052",
+                    "branchaddress": "635 AKIN ADESOLA, VICTORIA ISLAND, LAGOS STATE"
+                },
+                {
+                    "branch": "AKOWONJO",
+                    "branchcode":"058-152366",
+                    "branchaddress": "35 SHASHA ROAD, AKOWONJO ,LAGOS STATE"
+                },
+                {
+                    "branch": "ALABA",
+                    "branchcode":"058-152560",
+                    "branchaddress": "13,OBOSI PLAZA,ALABA INT'L MARKET,ALABA,OJO LAGOS STATE"
+                },
+                {
+                    "branch": "ALAUSA",
+                    "branchcode":"058-152340",
+                    "branchaddress": "TECHNICAL REFERENCE CENTRE, ALAUSA , LAGOS STATE"
+                },
+                {
+                    "branch": "ALLEN",
+                    "branchcode":"058-152023",
+                    "branchaddress": "80/82, ALLEN AVENUE, IKEJA, LAGOS STATE"
+                },
+                {
+                    "branch": "AMUWO ODOFIN",
+                    "branchcode":"058-152599",
+                    "branchaddress": "41B AMUWO ODOFIN RESIDENTIAL SCHEME, AMUWO, LAGOS STATE"
+                },
+                {
+                    "branch": "ANTHONY",
+                    "branchcode":"058-152298",
+                    "branchaddress": "7 ANTHONY VILLAGE ROAD LAGOS. ,ANTHONY VILLAGE ,LAGOS STATE"
+                },
+                {
+                    "branch": "APAPA, BURMA ROAD",
+                    "branchcode":"058-152515",
+                    "branchaddress": "17, BURMA ROAD, APAPA, LAGOS STATE"
+                },
+                {
+                    "branch": "APAPA, COMMERCIAL RD",
+                    "branchcode":"058-152049",
+                    "branchaddress": "DOYIN HOUSE,4 COMMERCIAL AVENUE, APAPA, LAGOS STATE"
+                },
+                {
+                    "branch": "APAPA, COMMERCIAL RD",
+                    "branchcode":"058-152049",
+                    "branchaddress": "DOYIN HOUSE,4 COMMERCIAL AVENUE, APAPA, LAGOS STATE"
+                },
+                {
+                    "branch": "APAPA, CREEK ROAD",
+                    "branchcode":"058-152188",
+                    "branchaddress": "35 CREEK ROAD APAPA BESIDE THISDAY NEWSPAPER OFFICE ,APAPA ,LAGOS STATE"
+                },
+                {
+                    "branch": "ASPAMDA",
+                    "branchcode":"058-152078",
+                    "branchaddress": "ZONE A, R1, INTERNATIONAL TRADE FAIR COMPLEX, BADAGRY EXPRESSWAY, OJO ,ASPAMDA ,LAGOS STATE"
+                },
+                {
+                    "branch": "BANK ANTHONY",
+                    "branchcode":"058-152065",
+                    "branchaddress": "31 MOBOLAJI BANK ANTHONY WAY, IKEJA, LAGOS STATE"
+                },
+                {
+                    "branch": "BAYO KUKU",
+                    "branchcode":"058-152586",
+                    "branchaddress": "19, BAYO KUKU ROAD, OFF OSBORNE ROAD, IKOYI, LAGOS"
+                },
+                {
+                    "branch": "BROAD ST",
+                    "branchcode":"058-152036",
+                    "branchaddress": "2 TINUBU STREET, LAGOS STATE"
+                },
+                {
+                    "branch": "CATHOLIC MISSION",
+                    "branchcode":"058-152243",
+                    "branchaddress": "22/24 CATHOLIC MISSION STREET, LAGOS ISLAND ,LAGOS STATE"
+                },
+                {
+                    "branch": "CBD ALAUSA",
+                    "branchcode":"058-152612",
+                    "branchaddress": "PLOT 11 BLOCK A IPM ROAD, CENTRAL BUSINESS DISTRICT ALAUSA IKEJA"
+                },
+                {
+                    "branch": "CHEVRON DRIVE",
+                    "branchcode":"058-152405",
+                    "branchaddress": "CHEVRON DRIVE , LEKKI ,LAGOS STATE"
+                },
+                {
+                    "branch": "COMPUTER VILLAGE,IKEJA",
+                    "branchcode":"058-152573",
+                    "branchaddress": "NO.5 OSHITELU STREET COMPUTER,VILLAGE IKEJA LAGOS STATE"
+                },
+                {
+                    "branch": "DIYA GBAGADA",
+                    "branchcode":"058-152528",
+                    "branchaddress": "NO. 14 DIYA STREET, IFAKO GBAGADA, LAGOS STATE"
+                },
+                {
+                    "branch": "EGBEDA, IDIMU RD",
+                    "branchcode":"058-152450",
+                    "branchaddress": "231 EGBEDA IDIMU ROAD ,ALIMOSHO LOCAL GOERNMENT AREA ,EGBEDA ,LAGOS STATE"
+                },
+                {
+                    "branch": "FESTAC",
+                    "branchcode":"058-152269",
+                    "branchaddress": "HOUSE 2, 301 ROAD 2ND AVENUE, FESTAC TOWN ,LAGOS STATE"
+                },
+                {
+                    "branch": "IBAFO",
+                    "branchcode":"058-152201",
+                    "branchaddress": "1 DELE BAKARE ST,OLODI APAPA ,LAGOS STATE"
+                },
+                {
+                    "branch": "IDI-ORO",
+                    "branchcode":"058-152418",
+                    "branchaddress": "110 AGEGE MOTOR ROAD, MUSHIN ,LAGOS STATE"
+                },
+                {
+                    "branch": "IDUMOTA",
+                    "branchcode":"058-152421",
+                    "branchaddress": "134 NNAMDI AZIKIWE ROAD,IDUMOTA ,LAGOS STATE"
+                },
+                {
+                    "branch": "IKORODU",
+                    "branchcode":"058-152324",
+                    "branchaddress": "47, LAGOS ROAD, IKORODU, LAGOS STATE"
+                },
+                {
+                    "branch": "IKORODU",
+                    "branchcode":"058-152625",
+                    "branchaddress": "NO 68 AYANGBURE ROAD IKORODU"
+                },
+                {
+                    "branch": "IKOSI",
+                    "branchcode":"058-152230",
+                    "branchaddress": "PLOT A3C IKOSI ROAD OREGUN IND. ESTATE ,IKOSI ,LAGOS STATE"
+                },
+                {
+                    "branch": "IKOYI",
+                    "branchcode":"058-152081",
+                    "branchaddress": "78 AWOLOWO ROAD, IKOYI,LAGOS STATE"
+                },
+                {
+                    "branch": "IKOYI",
+                    "branchcode":"058-152531",
+                    "branchaddress": "54, AWOLOWO ROAD, OFF ADEMOLA STREET, IKOYI ,LAGOS STATE"
+                },
+                {
+                    "branch": "ILUPEJU",
+                    "branchcode":"058-152104",
+                    "branchaddress": "48 TOWN PLANNING WAY ILUPEJU, LAGOS STATE"
+                },
+                {
+                    "branch": "ISOLO",
+                    "branchcode":"058-152379",
+                    "branchaddress": "1 ABIMBOLA ISOLO ROAD, ISOLO LAGOS STATE"
+                },
+                {
+                    "branch": "ISOLO, AIRPORT ROAD",
+                    "branchcode":"058-152227",
+                    "branchaddress": "15, INT'L AIRPORT RD, ISOLO ,LAGOS STATE"
+                },
+                {
+                    "branch": "KETU",
+                    "branchcode":"058-152395",
+                    "branchaddress": "570 IKORODU ROAD, KETU ,LAGOS STATE"
+                },
+                {
+                    "branch": "LASU",
+                    "branchcode":"058-152544",
+                    "branchaddress": "LAGOS STATE UNIVERSITY,MOTION GROUND OJO CAMPUS, LAGOS STATE"
+                },
+                {
+                    "branch": "LAWANSON",
+                    "branchcode":"058-152557",
+                    "branchaddress": "OLATILEWA JUNCTION,MUNIRU BARUWA SHOPPING COMPLEX ITIRE ROAD, LAGOS STATE"
+                },
+                {
+                    "branch": "LEKKI",
+                    "branchcode":"058-152159",
+                    "branchaddress": "BLOCK 5,PLOT 5,V.I ANNEX.LEKKI ,LAGOS STATE"
+                },
+                {
+                    "branch": "LUTH",
+                    "branchcode":"058-152308",
+                    "branchaddress": "LUTH, IDI-ARABA ,LAGOS STATE"
+                },
+                {
+                    "branch": "MAGODO",
+                    "branchcode":"058-152638",
+                    "branchaddress": "16 CMD ROAD MAGODO"
+                },
+                {
+                    "branch": "ITIRE",
+                    "branchcode":"058-152641",
+                    "branchaddress": "41/43 ITIRE ROAD SURULERE"
+                },
+                {
+                    "branch": "MARINA",
+                    "branchcode":"058-152162",
+                    "branchaddress": "49A MARINA STREET, MARINA ,LAGOS STATE"
+                },
+                {
+                    "branch": "MATORI",
+                    "branchcode":"058-152447",
+                    "branchaddress": "135, LADIPO STREET, MATORI ,LAGOS STATE"
+                },
+                {
+                    "branch": "MOLONEY",
+                    "branchcode":"058-152463",
+                    "branchaddress": "30 MOLONEY STREET, LAGOS ISLAND. ,LAGOS STATE"
+                },
+                {
+                    "branch": "MUSHIN",
+                    "branchcode":"058-152256",
+                    "branchaddress": "311 AGEGE MOTOR ROAD ,MUSHIN ,LAGOS STATE"
+                },
+                {
+                    "branch": "OBA AKRAN",
+                    "branchcode":"058-152120",
+                    "branchaddress": "33 OBA AKRAN AVENUE, IKEJA ,LAGOS STATE"
+                },
+                {
+                    "branch": "OBA AKRAN, BERGERPAINTS",
+                    "branchcode":"058-152382",
+                    "branchaddress": "10 OBA AKRAN AVENUE, IKEJA ,LAGOS STATE"
+                },
+                {
+                    "branch": "OGBA",
+                    "branchcode":"058-152175",
+                    "branchaddress": "PLOT 4, ISHERI ROAD, OGBA, LAGOS STATE"
+                },
+                {
+                    "branch": "OJODU",
+                    "branchcode":"058-152492",
+                    "branchaddress": "50, ISHERI ROAD ,OJODU ,LAGOS STATE"
+                },
+                {
+                    "branch": "OJUELEGBA",
+                    "branchcode":"058-152311",
+                    "branchaddress": "74-76 OJUELEGBA ROAD, LAGOS STATE"
+                },
+                {
+                    "branch": "OKE-ARIN",
+                    "branchcode":"058-152476",
+                    "branchaddress": "40, JOHN STREET, OKE ARIN LAGOS,LAGOS STATE"
+                },
+                {
+                    "branch": "OKOTA",
+                    "branchcode":"058-152337",
+                    "branchaddress": "115A OKOTA ROAD ,OKOTA ,LAGOS STATE"
+                },
+                {
+                    "branch": "ONIPANU",
+                    "branchcode":"058-152353",
+                    "branchaddress": "196 IKORODU ROAD, ONIPANU ,LAGOS STATE"
+                },
+                {
+                    "branch": "OPEBI",
+                    "branchcode":"058-152214",
+                    "branchaddress": "14 OPEBI ROAD, IKEJA ,LAGOS STATE"
+                },
+                {
+                    "branch": "OREGUN",
+                    "branchcode":"058-152117",
+                    "branchaddress": "100 KUDIRAT ABIOLA WAY, OREGUN, LAGOS STATE"
+                },
+                {
+                    "branch": "PLAZA",
+                    "branchcode":"058-152010",
+                    "branchaddress": "6, ADEYEMO ALAKIJA STREET,VICTORIA ISLAND, LAGOS STATE"
+                },
+                {
+                    "branch": "ST GREGORY",
+                    "branchcode":"058-152609",
+                    "branchaddress": "1 OBADEYI CLOSE, OFF ST GREGORY ROAD IKOYI, LAGOS STATE"
+                },
+                {
+                    "branch": "BODE THOMAS 1",
+                    "branchcode":"058-152133",
+                    "branchaddress": "94B BODE THOMAS STREET, SURULERE OPPOSITE MTN OFFICE. ,LAGOS STATE"
+                },
+                {
+                    "branch": "BODE THOMAS 2",
+                    "branchcode":"058-152670",
+                    "branchaddress": "124, BODE THOMAS STREET, BY AKINSEMOYIN ST, SURULERE, LAGOS STATE"
+                },
+                {
+                    "branch": "TIAMIYU SAVAGE",
+                    "branchcode":"058-152285",
+                    "branchaddress": "TIAMIYU SAVAGE STR. ,VICTORIA ISLAND ,LAGOS STATE"
+                },
+                {
+                    "branch": "YABA",
+                    "branchcode":"058-152191",
+                    "branchaddress": "216/218 HERBERT MACAULAY WAY, YABA ,LAGOS STATE"
+                },
+                {
+                    "branch": "PLURAL HOUSEYABA",
+                    "branchcode":"058-152654",
+                    "branchaddress": "PLOT 1669, OYIN JOLAYEMI STREET, VICTORIA ISLAND LAGOS"
+                },
+                {
+                    "branch": "IKOTA",
+                    "branchcode":"058-152696",
+                    "branchaddress": "IKOTA SHOPPING MALL,AJAH LAGOS"
+                },
+                {
+                    "branch": "IKOTUN BRANCH",
+                    "branchcode":"058-152706",
+                    "branchaddress": "49 IDIMU IKOTUN ROAD, IKOTUN LAGOS"
+                },
+                {
+                    "branch": "WESTERN AVENUE",
+                    "branchcode":"058-152683",
+                    "branchaddress": "89, WESTERN AVENUE, SURULERE, LAGOS STATE"
+                },
+                {
+                    "branch": "CELE - IJESHA",
+                    "branchcode":"058-152719",
+                    "branchaddress": "Plot 44, Ajijedidun Street, Agunlejika Bus Stop, Cele-Ijesha, Lagos"
+                },
+                {
+                    "branch": "ABULE EGBA 2",
+                    "branchcode":"058-023266",
+                    "branchaddress": "641, LAMGAN PLAZA, ABULE TAILOR, LAGOS-ABEOKUTA EXPRESSWAY, ABULE EGBA, LAGOS"
+                },
+                {
+                    "branch": "APAPA, DUOLLA ROAD",
+                    "branchcode":"058-152883",
+                    "branchaddress": "APAPA, DUOLLA ROAD"
+                },
+                {
+                    "branch": "EGBE ROAD",
+                    "branchcode":"058-152845",
+                    "branchaddress": "EGBE ROAD, OKE AFA"
+                },
+                {
+                    "branch": "FESTAC 2",
+                    "branchcode":"058-152777",
+                    "branchaddress": "PLOT 230, 23 ROAD OPPOSITE J CLOSE, FESTAC TOWN LAGOS"
+                },
+                {
+                    "branch": "INTL AIRPORT RD 2",
+                    "branchcode":"058-152722",
+                    "branchaddress": "12 INTERNATIONAL AIRPORT ROAD, LAGOS STATE"
+                },
+                {
+                    "branch": "IPAJA",
+                    "branchcode":"058-152764",
+                    "branchaddress": "199 IPAJA ROAD, IPAJA LAGOS, LAGOS"
+                },
+                {
+                    "branch": "LASPOTECH9",
+                    "branchcode":"058-15282",
+                    "branchaddress": "LAGOS STATE POLYTECHNIC, KM 7, SAGAMU ROAD, ODOGUNYAN, IKORODU"
+                },
+                {
+                    "branch": "MASHA",
+                    "branchcode":"058-153006",
+                    "branchaddress": "145 OGUNLANA DRIVE BY MASHA ROUNDABOUT, SURULERE, LAGOS"
+                },
+                {
+                    "branch": "OGBA 2",
+                    "branchcode":"058-152942",
+                    "branchaddress": "4, OGUNNUSI ROAD, OGBA, LAGOS"
+                },
+                {
+                    "branch": "ORILE COKER",
+                    "branchcode":"058-152748",
+                    "branchaddress": "PLOT 3, BLOCK C, AMUWO ODPFIN INDUSTRIAL SCHEME, ORILE COKER, LAGOS"
+                },
+                {
+                    "branch": "UNILAG",
+                    "branchcode":"058-152751",
+                    "branchaddress": "UNIVERSITY OF LAGOS, AKOKA, LAGOS"
+                },
+                {
+                    "branch": "IJU",
+                    "branchcode":"058-152890",
+                    "branchaddress": "90 IJU FAGBA ROAD, LAGOS"
+                }
+            ],
+            "Nassarawa":[
+                {
+                    "branch": "KARU",
+                    "branchcode":"058-206911",
+                    "branchaddress": "PLOT 13754 ABUJA KEFFI EXP WAY MARABA KARU LGA, NASARAWA STATE"
+                },
+                {
+                    "branch": "LAFIA",
+                    "branchcode":"058-206814",
+                    "branchaddress": "ALONG JOS RD (BY NEPA SUB-STATION) LAFIA , NASARAWA STATE"
+                }
+            ],
+            "Niger":[
+                {
+                    "branch": "KONTAGORA",
+                    "branchcode":"058-206814",
+                    "branchaddress": "PLOT 6,KTF 139 KONTAGORA , NIGER STATE"
+                },
+                {
+                    "branch": "MINNA",
+                    "branchcode":"058-163711",
+                    "branchaddress": "PAIKO ROAD (NEXT TO NIGER STATE TRANSPORT CORPORATION) MINNA, NIGER STATE"
+                }
+            ],
+            "Ogun":[
+                {
+                    "branch": "ABEOKUTA",
+                    "branchcode":"058-174218",
+                    "branchaddress": "IBB BOUELVARD, IBARA, ABEOKUTA, OGUN STATE"
+                },
+                {
+                    "branch": "ABEOKUTA, ASERO",
+                    "branchcode":"058-179077",
+                    "branchaddress": "BLOCK 7, PLOT 17/20 IBADAN ASERO, ABEOKUTA, OGUN STATE"
+                },
+                {
+                    "branch": "ABEOKUTA, UNAAB",
+                    "branchcode":"058-179064",
+                    "branchaddress": "UNIVERSITY OF AGRICULTURE ABEOKUTA, ALABATA, OGUN STATE"
+                },
+                {
+                    "branch": "AGBARA",
+                    "branchcode":"058-179080",
+                    "branchaddress": "PLOT C2/4 ILARO RD, AGBARA INDUSTRIAL ESTATE, AGBARA ,OGUN STATE"
+                },
+                {
+                    "branch": "IJEBU ODE",
+                    "branchcode":"058-179048",
+                    "branchaddress": "183 FOLAGBADE ROAD, IJEBU ODE ,OGUN STATE"
+                },
+                {
+                    "branch": "OOU AGO-IWOYE,OGUN STATE",
+                    "branchcode":"058-174144",
+                    "branchaddress": "P.S.OLABISI ONABANJO UNIVERSITY,AGO-IWOYE."
+                },
+                {
+                    "branch": "SAGAMU",
+                    "branchcode":"058-179035",
+                    "branchaddress": "143 AKARIGBO STREET, SABO, SAGAMU ,OGUN STATE"
+                },
+                {
+                    "branch": "SANGO OTTA",
+                    "branchcode":"058-174810",
+                    "branchaddress": "63 ABEOKUTA EXPRESS RD ,SANGO OTTA ,OGUN STATE"
+                },
+                {
+                    "branch": "RCCG",
+                    "branchcode":"058-179129",
+                    "branchaddress": "RCCG, MOWE, OGUN STATE"
+                },
+                {
+                    "branch": "BABCOCK",
+                    "branchcode":"058-174823",
+                    "branchaddress": "BABCOCK UNIVERSITY CAMPUS, ILISAN-REMO, OGUN STATE"
+                }
+            ],
+            "Ondo":[
+                {
+                    "branch": "AKURE",
+                    "branchcode":"058-184318",
+                    "branchaddress": "16, OBA-ILE, OWO ROAD, AKURE, ONDO STATE"
+                },
+                {
+                    "branch": "FUTA",
+                    "branchcode":"058-184321",
+                    "branchaddress": "FEDERAL UNIVERSITY OF TECHNOLOGY, AKUREE"
+                },
+                {
+                    "branch": "ONDO",
+                    "branchcode":"058-184334",
+                    "branchaddress": "49, YABA ROAD ONDO , ONDO STATE"
+                }
+            ],
+            "Osun":[
+                {
+                    "branch": "ILE-IFE",
+                    "branchcode":"058-294910",
+                    "branchaddress": "3 LAGERE ROAD, ILE IFE ,OSUN STATE"
+                },
+                {
+                    "branch": "ILESA",
+                    "branchcode":"058-299012",
+                    "branchaddress": "196 ISOKUN ROAD, OFF OSOGBO, ILESHA ROAD ,ILESHA ,OSUN STATE"
+                },
+                {
+                    "branch": "O.A.U ILE-IFE",
+                    "branchcode":"058-294923",
+                    "branchaddress": "O.A.U ILE – IFE, OSUN STATE"
+                },
+                {
+                    "branch": "OSOGBO",
+                    "branchcode":"058-194023",
+                    "branchaddress": "PLOT 6A SECRETARIAT RD, BODIJA , IBADAN ,OYO STATE"
+                }
+            ],
+            "Oyo":[
+                {
+                    "branch": "IBADAN, APATA",
+                    "branchcode":"058-194049",
+                    "branchaddress": "9/21 IBADAN ABEOKUTA ROAD, IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "IBADAN, BODIJA",
+                    "branchcode":"058-194023",
+                    "branchaddress": "PLOT 6A SECRETARIAT RD, BODIJA , IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "IBADAN, CHALLENGE",
+                    "branchcode":"058-194065",
+                    "branchaddress": "PLOT 14 JFK, OSIBODU LYT IJEBU ROAD, IBADAN, OYO STATE"
+                },
+                {
+                    "branch": "IBADAN, DUGBE",
+                    "branchcode":"058-194010",
+                    "branchaddress": "11B JIMOH ODUTOLA STREET,DUGBE, IBADAN.,OYO STATE"
+                },
+                {
+                    "branch": "IBADAN, MOKOLA",
+                    "branchcode":"058-194052",
+                    "branchaddress": "27 MAJARO STREET, OLD OYO ROAD, OPPOSITE COCA-COLA ,MOKOLA ,IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "IBADAN, RING ROAD",
+                    "branchcode":"058-194036",
+                    "branchaddress": "106 RING ROAD,IBADAN ,OYO STATE"
+                },
+                {
+                    "branch": "OGBOMOSO",
+                    "branchcode":"058-199028",
+                    "branchaddress": "IBAPON AREAOPP BAPTIST SEMINARY, OGBOMOSHO ,OYO STATE"
+                },
+                {
+                    "branch": "OYO",
+                    "branchcode":"058-199057",
+                    "branchaddress": "OGBOMOSHO EXPRESS RD, OWODE ,OYO STATE"
+                }
+            ],
+            "Plateau":[
+                {
+                    "branch": "JOS, AHMADU BELLO WAY",
+                    "branchcode":"058-203325",
+                    "branchaddress": "PLOT 1902 AHMADU BELLO WAY, JOS NORTH LGA ,PLATEAU STATE"
+                },
+                {
+                    "branch": "JOS, JENGRE ROAD",
+                    "branchcode":"058-203312",
+                    "branchaddress": "PLOT 13B, JENGRI ROAD,JOS,PLATEAU STATE"
+                }
+            ],
+            "Rivers":[
+                {
+                    "branch": "BONNY ISLAND",
+                    "branchcode":"058-217214",
+                    "branchaddress": "34 NEW RD ,BONNY ISLAND ,RIVERS STATE"
+                },
+                {
+                    "branch": "PORTHARCOURT, ABA RD",
+                    "branchcode":"058-215025",
+                    "branchaddress": "PLOT 279A TOMBIA STREET OFF ABA ROAD, PORT HARCOURT, RIVERS STATE"
+                },
+                {
+                    "branch": "PORTHARCOURT, AZIKIWE RD",
+                    "branchcode":"058-215041",
+                    "branchaddress": "5 AZIKWE ROAD, PORT HARCOURT, RIVERS STATE"
+                },
+                {
+                    "branch": "PORTHARCOURT, EAST WEST RD",
+                    "branchcode":"058-215054",
+                    "branchaddress": "NO 11 EAST WEST ROAD RUMODUMAYA ,PORT HARCOURT ,RIVERS STATE"
+                },
+                {
+                    "branch": "PORTHARCOURT, INDUSTRIAL LAYOUT",
+                    "branchcode":"058-215070",
+                    "branchaddress": "23, TRANS AMADI INDUSTRIAL LAYOUT, PORT HARCOURT, RIVERS STATE"
+                },
+                {
+                    "branch": "PORTHARCOURT, SHELL RA",
+                    "branchcode":"058-215038",
+                    "branchaddress": "215 ABA ROAD, OPP. SHELL RESIDENTIAL AREA, PORT HARCOURT ,RIVERS STATE"
+                },
+                {
+                    "branch": "PORTHARCOURT,TRANS AMADI",
+                    "branchcode":"058-215012",
+                    "branchaddress": "PLOT 47,TRANS AMADI LAYOUT,PORT-HARCOURT ,RIVERS STATE"
+                },
+                {
+                    "branch": "PORTHARCOUT, IKWERRE ROAD",
+                    "branchcode":"058-215067",
+                    "branchaddress": "225, IKWERRE ROAD, PORTHARCOURT , RIVERS STATE"
+                },
+                {
+                    "branch": "PORTHARCOUT, NTA ROAD MGBUOBA",
+                    "branchcode":"058-215083",
+                    "branchaddress": "110 NTA RD,LOCATION JUNCTION,MGBUOBA,PORT HARCOURT,RIVERS"
+                },
+                {
+                    "branch": "NAOC",
+                    "branchcode":"058-215096",
+                    "branchaddress": "NAOC,MILE4 RUMUEME,PORT HARCOURT"
+                },
+                {
+                    "branch": "RVSG Secretariat",
+                    "branchcode":"058-215944",
+                    "branchaddress": "GRD FLR,BLK A,RVSG SEC. ,PH"
+                },
+                {
+                    "branch": "ABA ROAD PH E-BRANCH (Reports to 502)",
+                    "branchcode":"058-023600",
+                    "branchaddress": "HAPPY BITE PLAZA, OPPOSITE AIR FORCE BASE, ABA ROAD, PORT- HARCOURT, RIVERS STATE"
+                }
+            ],
+            "Sokoto":[
+                {
+                    "branch": "SOKOTO",
+                    "branchcode":"058-223512",
+                    "branchaddress": "101 AHMADU BELLO WAY, SOKOTO STATE"
+                },
+                {
+                    "branch": "SOKOTO, MAIDUGURI ROAD",
+                    "branchcode":"058-223525",
+                    "branchaddress": "MAIDUGURI ROAD, ZOO LINE AREA, SOKOTO, SOKOTO STATE"
+                },
+                {
+                    "branch": "USMAN DAN FODIO",
+                    "branchcode":"058-223538",
+                    "branchaddress": "USMAN DAN FODIO UNIVERSITY SOKOTO OFF ABDULAHI FODIO ROAD SOKOTO"
+                }
+            ],
+            "Taraba":[
+                {
+                    "branch": "JALINGO",
+                    "branchcode":"058-306617",
+                    "branchaddress": "HAMMANRUWA WAY., JALINGO TARABA STATE"
+                },
+                {
+                    "branch": "WUKARI",
+                    "branchcode":"058-308518",
+                    "branchaddress": "NO 3, IBI RD, GRA WUKARI ,TARABA STATE"
+                }
+            ],
+            "Yobe":[
+                {
+                    "branch": "DAMATURU",
+                    "branchcode":"058-316717",
+                    "branchaddress": "POTISKUM RD, DAMATURU YOBE STATE"
+                }
+            ],
+            "Zamfara":[
+                {
+                    "branch": "GUSAU ",
+                    "branchcode":"058-326312",
+                    "branchaddress": "5, SANI ABACHA WAY, GUSAU ,ZAMFARA STATE"
+                }
+            ]
+        }
+    },
+    {
+        "bank": "HERITAGE BANK PLC",
+        "code": "030",
+        "abb": "htb",
+        "ussd": "*322#",
+        "state":{
+            "Abia":[
+                {
+                    "branch": "Asa Rd Aba Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "2A Asa Rd,Aba, , Abia State"
+                },
+                {
+                    "branch": "Azikiwe Rd, Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "110 Azikiwe Rd,Aba, , Abia State"
+                },
+                {
+                    "branch": "Cameroun Road Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "85, Cameround Road, Aba, , Abia State"
+                },
+                {
+                    "branch": "Faulks Road Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "208 Faulks Road, , Abia State"
+                },
+                {
+                    "branch": "Umuahia",
+                    "branchcode":null,
+                    "branchaddress": "3rd, Avenue Branch, Umuahia, Abia State"
+                },
+                {
+                    "branch": "Umuahia",
+                    "branchcode":null,
+                    "branchaddress": "2, Club Road, Umuahia Main Market, Umuahia, Abia State"
+                },
+                {
+                    "branch": "Aba",
+                    "branchcode":null,
+                    "branchaddress": "2, Club Road, Umuahia Main Market, Umuahia, Abia State"
+                },
+                {
+                    "branch": "Aba",
+                    "branchcode":null,
+                    "branchaddress": "110, Azikiwe Road, P.M.B. 7527, Aba, Abia State"
+                },
+                {
+                    "branch": "Aba",
+                    "branchcode":null,
+                    "branchaddress": "Asa Nnetu Auto Sparepart Market, Aba, Abia State"
+                },
+                {
+                    "branch": "Aba",
+                    "branchcode":null,
+                    "branchaddress": "Umu-Akpara, Ossisioma Ngwa, Aba, Abia State"
+                },
+                {
+                    "branch": "Ariaria",
+                    "branchcode":null,
+                    "branchaddress": "208, Faulks Road, Ariaria, Aba, Abia State"
+                },
+                {
+                    "branch": "Aba",
+                    "branchcode":null,
+                    "branchaddress": "85, Cameroun Road, Aba, Abia State"
+                },
+                {
+                    "branch": "Aba",
+                    "branchcode":null,
+                    "branchaddress": "2a, Asa Road, York Street, Aba, Abia State"
+                },
+                {
+                    "branch": "Umuahia Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "Okpara Square Avenue, , Abia State"
+                }
+            ],
+            "Adamawa":[
+                {
+                    "branch": "Yola Jimeta",
+                    "branchcode":null,
+                    "branchaddress": "72, Atiku Abubakar Way, Jimeta, Yola, Adamawa State"
+                },
+                {
+                    "branch": "Yola Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "63 Atiku Abubakar Way, Jimeta ,Yola, , Adamawa State"
+                }
+            ],
+            "Anambra":[
+                {
+                    "branch": "Asaba Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "343 Nnebisi Road, , Anambara State"
+                },
+                {
+                    "branch": "Awka-1",
+                    "branchcode":null,
+                    "branchaddress": "94 Ziks Avenue, Awka, , Anambara State"
+                },
+                {
+                    "branch": "Bridge Head 2",
+                    "branchcode":null,
+                    "branchaddress": "32 Portharcourt Road Fegge, , Anambara State"
+                },
+                {
+                    "branch": "Bridgehead 1 Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "49, Uga Street, Fegge Onitsha, , Anambara State"
+                },
+                {
+                    "branch": "Iweka Road Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "50 Iweka Road Onitsha, , Anambara State"
+                },
+                {
+                    "branch": "New Market Road Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "32, New Market Road, Onitsha, , Anambara State"
+                },
+                {
+                    "branch": "Nkpor Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "52 Enugu / Onitsha Express Way Nkpor, , Anambara State"
+                },
+                {
+                    "branch": "Nnewi 1",
+                    "branchcode":null,
+                    "branchaddress": "2, Edo Ezemewi Rd, Nnewi, , Anambara State"
+                },
+                {
+                    "branch": "Nnewi 2",
+                    "branchcode":null,
+                    "branchaddress": "14 Edo Ezemewi Road Nnewi, , Anambara State"
+                },
+                {
+                    "branch": "Ogbaru Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "3 Bournvita Street Ogbaru, , Anambara State"
+                },
+                {
+                    "branch": "Onitsha Central 1",
+                    "branchcode":null,
+                    "branchaddress": "39 Old Market Road Onitsha, , Anambara State"
+                },
+                {
+                    "branch": "Onitsha Market Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "3 New Market Road,Onitsha, , Anambara State"
+                },
+                {
+                    "branch": "Ozomagala Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "65,Ozomagala Street, Onitsha, , Anambara State"
+                },
+                {
+                    "branch": "Unizik Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "Unizik Perm Site, , Anambara State"
+                },
+                {
+                    "branch": "Onitsha",
+                    "branchcode":null,
+                    "branchaddress": "3, Market Street, Onitsha, Anambra State"
+                },
+                {
+                    "branch": "Onitsha",
+                    "branchcode":null,
+                    "branchaddress": "65, Ozomagala Street, Odoakpu, Onitsha, Anambra State"
+                },
+                {
+                    "branch": "Nnewi",
+                    "branchcode":null,
+                    "branchaddress": "2, Edo Ezemewi Road, Nnewi, Anambra State"
+                },
+                {
+                    "branch": "Nnewi",
+                    "branchcode":null,
+                    "branchaddress": "14, Edo Ezemewi Road, Nnewi, Anambra State"
+                },
+                {
+                    "branch": "Nkpor",
+                    "branchcode":null,
+                    "branchaddress": "52, Enugu-Onitsha Express Road, Nkpor, Anambra State"
+                },
+                {
+                    "branch": "Awka",
+                    "branchcode":null,
+                    "branchaddress": "20, Nnamdi Azikiwe Avenue, Awka, Anambra State"
+                },
+                {
+                    "branch": "Awka",
+                    "branchcode":null,
+                    "branchaddress": "94, Nnamdi Azikiwe Avenue, Awka, Anambra State"
+                },
+                {
+                    "branch": "Onitsha",
+                    "branchcode":null,
+                    "branchaddress": "39 Old Market Road, Onitsha, Anambra State"
+                },
+                {
+                    "branch": "Onitsha",
+                    "branchcode":null,
+                    "branchaddress": "32, New Market Road, Onitsha, Anambra State"
+                },
+                {
+                    "branch": "Onitsha",
+                    "branchcode":null,
+                    "branchaddress": "3a, New Market Road, Onitsha, Anambra State"
+                },
+                {
+                    "branch": "Onitsha",
+                    "branchcode":null,
+                    "branchaddress": "50, Iweka Road, Onitsha, Anambra State"
+                },
+                {
+                    "branch": "Onitsha",
+                    "branchcode":null,
+                    "branchaddress": "46, Uga Street, Bridgehead, Onitsha, Anambra State"
+                },
+                {
+                    "branch": "Onitsha",
+                    "branchcode":null,
+                    "branchaddress": "32, Port Harcourt Road, Feggae, Onitsha, Anambra State"
+                }
+            ],
+            "Akwa Ibom":[
+                {
+                    "branch": "Aka Road Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "41 Aka Road, Uyo, “Akwa Ibom” State"
+                },
+                {
+                    "branch": "Eket",
+                    "branchcode":null,
+                    "branchaddress": "38, Oron Road, Eket, Akwa-Ibom State"
+                },
+                {
+                    "branch": "Eket",
+                    "branchcode":null,
+                    "branchaddress": "57, Eket Oron Road, Eket, Akwa-Ibom State"
+                },
+                {
+                    "branch": "Eket 2 Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "11, Etebi Street, Eket, , “Akwa Ibom” State"
+                },
+                {
+                    "branch": "Uyo",
+                    "branchcode":null,
+                    "branchaddress": "41, Aka Road, Uyo, Akwa Ibom State"
+                },
+                {
+                    "branch": "Uyo-Ikot Ekpene Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "155 Ikot Ekpene Road, Uyo, , “Akwa Ibom” State"
+                },
+                {
+                    "branch": "Uyo",
+                    "branchcode":null,
+                    "branchaddress": "Shopping Centre, 155 Ikot Ekpene Road, Uyo, Akwa-Ibom State"
+                }
+            ],
+            "Bauchi":[
+                {
+                    "branch": "Bauchi Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "14 Bank Road Bauchi, Bauchi State"
+                }
+            ],
+            "Bayelsa":[
+                {
+                    "branch": "Yenegoa",
+                    "branchcode":null,
+                    "branchaddress": "Along Nbiama-Yenagoa Road, Yenegoa, Bayelsa State"
+                },
+                {
+                    "branch": "Yenagoa Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "104, Melford Okilo Road,Imgbi Junction, , Bayelsa State"
+                }
+            ],
+            "Benue":[
+                {
+                    "branch": "Makurdi Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "No 5 Ogiri Okoh Rd, Opp. Police H/Q Makurdi”, , Benue State"
+                }
+            ],
+            "Borno":[
+                {
+                    "branch": "Maiduguri Center",
+                    "branchcode":null,
+                    "branchaddress": "6 Kashim Ibrahim Way, Maiduguri, Borno State"
+                },
+                {
+                    "branch": "Maiduguri Center",
+                    "branchcode":null,
+                    "branchaddress": "43, Kashim Ibrahim Way, , Borno State"
+                },
+                {
+                    "branch": "Maiduguri Center",
+                    "branchcode":null,
+                    "branchaddress": " 43, Kashim Ibrahim Road, Maiduguri, Borno State"
+                },
+                {
+                    "branch": "Maiduguri Center",
+                    "branchcode":null,
+                    "branchaddress": "6, Sir Kashim Ibrahim Way,  Maiduguri, Borno State"
+                }
+            ],
+            "Cross River":[
+                {
+                    "branch": "Calabar",
+                    "branchcode":null,
+                    "branchaddress": "Murtala Mohammed Way, Calabar, Cross River State"
+                },
+                {
+                    "branch": "Calabar",
+                    "branchcode":null,
+                    "branchaddress": "Cross Trade Building Marry Slessor Road, Calabar, Cross River State"
+                },
+                {
+                    "branch": "Calabar",
+                    "branchcode":null,
+                    "branchaddress": "10 Calabar Road Opp CBN Calabar, Cross River State"
+                },
+                {
+                    "branch": "Calabar",
+                    "branchcode":null,
+                    "branchaddress": "13 M/M Highway,Calabar, Cross River State"
+                }
+            ],
+            "Delta":[
+                {
+                    "branch": "Warri",
+                    "branchcode":null,
+                    "branchaddress": "67, Effurn/Sapele Road, Warri, Delta State"
+                },
+                {
+                    "branch": "Warri",
+                    "branchcode":null,
+                    "branchaddress": "343, Nnebisi Road, Asaba, Delta State"
+                },
+                {
+                    "branch": "Warri",
+                    "branchcode":null,
+                    "branchaddress": "30 Warri Sapele Road Warri, , Delta State"
+                },
+                {
+                    "branch": "Warri",
+                    "branchcode":null,
+                    "branchaddress": "67 Effurun/Sapele Road, , Delta State"
+                }
+            ],
+            "Ebonyi":[
+                {
+                    "branch": "Abakaliki Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "7 Ogoja Road, , Ebonyi State"
+                },
+                {
+                    "branch": "Abakaliki Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "7, Ogoja Road, Abakaliki, Ebonyi State"
+                }
+            ],
+            "Enugu":[
+                {
+                    "branch": "Enugu Branch",
+                    "branchcode":null,
+                    "branchaddress": "58, Ogui Road, Enugu, Enugu State"
+                },
+                {
+                    "branch": "Enugu Branch",
+                    "branchcode":null,
+                    "branchaddress": "138, Ogui Road, Enugu, Enugu State"
+                },
+                {
+                    "branch": "Enugu Branch",
+                    "branchcode":null,
+                    "branchaddress": "9 Ogui Road, Enugu, Enugu State"
+                },
+                {
+                    "branch": "Enugu Branch",
+                    "branchcode":null,
+                    "branchaddress": "138 Ogui Road, Enugu, , Enugu State"
+                },
+                {
+                    "branch": "Enugu Branch",
+                    "branchcode":null,
+                    "branchaddress": "No 36 Garden Avenue Enugu, , Enugu State"
+                }
+            ],
+            "Edo":[
+                {
+                    "branch": "Benin 2 Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "130 Akpakpava Road, Benin City, , Edo State"
+                },
+                {
+                    "branch": "Benin 2 Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "17, Sapele Road, High Court, Benin City, Edo State."
+                }
+            ],
+            "Ekiti":[
+                {
+                    "branch": "Ado Poly Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "Federal Polytechnic Campus, Ado Ekiti, , Ekiti State"
+                },
+                {
+                    "branch": "Fajuyi Roundabout Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "79,Fajuyi Roundabout Ado-Ekiti, , Ekiti State"
+                },
+                {
+                    "branch": "Ado Ekiti",
+                    "branchcode":null,
+                    "branchaddress": "University Of Ado Ekiti, Ado Ekiti, Ekiti State"
+                },
+                {
+                    "branch": "Omuo Ekiti",
+                    "branchcode":null,
+                    "branchaddress": "Omuo Ekiti, Ekiti East Lg Secretariat, Omuo Ekiti, Ekiti State"
+                },
+                {
+                    "branch": "Ode Ekiti",
+                    "branchcode":null,
+                    "branchaddress": "Agbado Road, Ode Ekiti, Ekiti State"
+                },
+                {
+                    "branch": "Ido-Ekiti",
+                    "branchcode":null,
+                    "branchaddress": "Ido/Osi Lga, Ido-Ekiti, Ekiti State"
+                },
+                {
+                    "branch": "Ado Ekiti",
+                    "branchcode":null,
+                    "branchaddress": "Federal Poly Br, Federal Polytechnic, Ado Ekiti, Ekiti State"
+                },
+                {
+                    "branch": "Ado Ekiti",
+                    "branchcode":null,
+                    "branchaddress": "Ekiti State Secretariat, Ado Ekiti, Ekiti State"
+                },
+                {
+                    "branch": "Ado Ekiti",
+                    "branchcode":null,
+                    "branchaddress": "Ejigbo Street, Ado Ekiti, Ekiti State"
+                },
+                {
+                    "branch": "Ado Ekiti",
+                    "branchcode":null,
+                    "branchaddress": "Fajuyi Roundabout, Ado Ekiti, Ekiti State"
+                },
+                {
+                    "branch": "Ado Ekiti",
+                    "branchcode":null,
+                    "branchaddress": "Federal Medical Centre Ido Ekiti, , Ekiti State"
+                },
+                {
+                    "branch": "Ido Ekiti",
+                    "branchcode":null,
+                    "branchaddress": "Federal Medical Centre Ido Ekiti, , Ekiti State"
+                },
+                {
+                    "branch": "Ijigbi Brabch Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "Ijigbo Street, Ado Ekiti, , Ekiti State"
+                },
+                {
+                    "branch": "Ikere College Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "Ikere College Of Education, Ikere Ekiti, , Ekiti State"
+                },
+                {
+                    "branch": "Ikoro Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "80,Atiba Street Ikoro Ekiti, , Ekiti State"
+                },
+                {
+                    "branch": "Ise Ekiti Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "1, Oraye Quarters, Ise Ekiti, , Ekiti State"
+                },
+                {
+                    "branch": "Oke-Aodu Str, Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "78 Oke-Aodu, Ikere Ekiti, , Ekiti State"
+                },
+                {
+                    "branch": "Otun Ekiti Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "Moba Lg Sec Ayetoro Road Otun Ekiti, , Ekiti State"
+                },
+                {
+                    "branch": "Unad Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "Along Iworoko Road,Ado Ekiti, , Ekiti State"
+                }
+            ],
+            "Gombe":[
+                {
+                    "branch": "Gombe Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "47 New Commercial Layout, , Gombe State"
+                }
+            ],
+            "Imo":[
+                {
+                    "branch": "Bank Road Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "20 Bank Road, Owerri, , Imo State"
+                },
+                {
+                    "branch": "Douglas Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "42 Douglas Road ,Owerri, , Imo State"
+                }
+            ],
+            "Jigawa":[
+                {
+                    "branch": "Dutse Experience Center",
+                    "branchcode":null,
+                    "branchaddress": "Plot 3C Sani Abacha Way, Dutse, , Jigawa State"
+                }
+            ],
+            "Kaduna":[
+                
             ]
         }
     }
