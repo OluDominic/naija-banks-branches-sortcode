@@ -1,12 +1,13 @@
 {
-  "name": "naija-banks-branches-api",
+  "name": "naija-banks-branches-sortcode",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lightweight NPM package for Nigerian banks, branches and sort-codes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "https://github.com/OluDominic/naija-banks-branches-sortcode",
   "keywords": [],
-  "author": "",
+  "author": "Oludare Dominic",
   "license": "ISC"
 }
