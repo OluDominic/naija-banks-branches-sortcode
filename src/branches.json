@@ -1,6 +1,6 @@
 [
     {
-        "bank": "Access Bank",
+        "bank": "ACCESS BANK",
         "code": "044",
         "abb": "ACC",
         "ussd": "*901#",
@@ -17785,7 +17785,7 @@
     {
         "bank": "UNITED BANK FOR AFRICA PLC",
         "code": "033",
-        "abb": "UBa",
+        "abb": "UBA",
         "ussd": "*919#",
         "state":{
             "Abia":[

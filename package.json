@@ -1,13 +1,25 @@
 {
   "name": "naija-banks-branches-sortcode",
   "version": "1.0.0",
-  "description": "Lightweight NPM package for Nigerian banks, branches and sort-codes",
+  "description": "Lightweight NPM package for Nigerian banks, branches and sort-codes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/OluDominic/naija-banks-branches-sortcode",
+  "homepage": "https://github.com/OluDominic/naija-banks-branches-sortcode#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OluDominic/naija-banks-branches-sortcode"
+  },
   "keywords": [],
   "author": "Oludare Dominic",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OluDominic/naija-banks-branches-sortcode/issues"
+  },
+  "engines": {
+    "npm": "6.14.11",
+    "node": "14.16.0"
+  },
+  "dependencies": {}
 }
